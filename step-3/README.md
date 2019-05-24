@@ -19,7 +19,7 @@ pip install psycopg2
 
 ### Interactive Tutorial
 
-Connect to the database (```psql pyzim -U py```) and review SQL concepts:
+Connect to the database (```psql jserb -U js```) and review SQL concepts:
 
 ```sql
 SELECT start FROM trains;

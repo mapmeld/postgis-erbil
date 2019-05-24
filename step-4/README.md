@@ -7,28 +7,22 @@ geospatial queries in PostGIS.
 
 ### Installing and running locally
 
-Using a SQL tool:
-
-```bash
-pip install psycopg2
-```
-
 As the db admin user, import GeoJSON and other files using ogr2ogr (part of GDAL install). Here's how we imported a GeoJSON file into a "zimbabwe_districts" table:
 
 ```bash
-ogr2ogr -append -f "PostgreSQL" PG:"dbname=pyzim" zimbabwe-districts.geojson
+ogr2ogr -append -f "PostgreSQL" PG:"dbname=jserb" zimbabwe-districts.geojson
 ```
 
 Here's how an ESRI Shapefile format can be imported (after unzipping)
 
 ```bash
-ogr2ogr -append -f "ESRI Shapefile" PG:"dbname=pyzim" wards.shp -nln wards
+ogr2ogr -append -f "ESRI Shapefile" PG:"dbname=jserb" wards.shp -nln wards
 ```
 
 Tips for importing other formats of geodata:
 https://morphocode.com/using-ogr2ogr-convert-data-formats-geojson-postgis-esri-geodatabase-shapefiles/
 
-Then run ```psql pyzim``` and alter wkb_geometry to a GEOGRAPHY type. If you
+Then run ```psql jserb``` and alter wkb_geometry to a GEOGRAPHY type. If you
 don't have a GEOGRAPHY type, you ought to run ```CREATE EXTENSION postgis;``` first.
 
 ```sql
@@ -45,10 +39,10 @@ There was a shapefile option, but I'd like to share how I would import this from
 
 ```bash
 pip install csvkit psycopg2
-csvsql --db postgresql:///pyzim step-4/health.csv --insert
+csvsql --db postgresql:///jserb step-4/health.csv --insert
 
 # for remote db
-csvsql --db postgresql://user:pass@hostIP/pyzim health.csv --insert
+csvsql --db postgresql://user:pass@hostIP/jserb health.csv --insert
 ```
 
 ```sql
@@ -75,7 +69,7 @@ or other comparisons.
 
 ### Interactive Tutorial
 
-Connect to the database (```psql pyzim -U py```) and use SQL with new geo commands
+Connect to the database (```psql jserb -U js```) and use SQL with new geo commands
 with districts.
 
 You will need the previous steps to have succeeded for the geodata to appear here.
@@ -93,7 +87,7 @@ SELECT ST_AsGeoJSON(point), nameoffaci FROM health LIMIT 1;
 SELECT * FROM districts LIMIT 1;
 SELECT ST_AsGeoJSON(wkb_geometry) FROM districts LIMIT 1;
 
-# we are given a lng/lat (integer values) inside Zimbabwe
+# we are given a lng/lat (integer values) inside Erbil
 # explain that lng/lat order is important
 # explain that lng/lat coordinates are decimals but this is just demo
 

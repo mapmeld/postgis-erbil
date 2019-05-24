@@ -5,32 +5,32 @@ for multiple workshop participants.
 
 ### Installing and running locally
 
-Install Python with pip, GDAL PostgreSQL, and PostGIS extensions.
+Install GDAL, PostgreSQL, and PostGIS
 
 Set up the database and read-only user:
 
 ```bash
 pip install csvkit psycopg2
 
-mkdir ~/Documents/pyzimmer # data can be stored in any new directory, just be consistent
-initdb pyzimmer/
-postgres -D pyzimmer/
-createdb pyzim
-psql pyzim
+mkdir ~/Documents/jserb # data can be stored in any new directory, just be consistent
+initdb jserb/
+postgres -D jserb/
+createdb jserb
+psql jserb
 ```
 
 You are now in the PSQL prompt:
 
 ```sql
-CREATE USER py;
-ALTER USER py WITH PASSWORD 'zim';
-GRANT CONNECT ON DATABASE pyzim TO py;
-GRANT USAGE ON SCHEMA public TO py;
+CREATE USER js;
+ALTER USER js WITH PASSWORD 'erb';
+GRANT CONNECT ON DATABASE jserb TO js;
+GRANT USAGE ON SCHEMA public TO js;
 ALTER DEFAULT PRIVILEGES IN SCHEMA public
-  GRANT SELECT ON TABLES TO py;
+  GRANT SELECT ON TABLES TO js;
 
 REVOKE CREATE ON SCHEMA public FROM PUBLIC;
-REVOKE CREATE ON SCHEMA public FROM py;
+REVOKE CREATE ON SCHEMA public FROM js;
 
 # activate PostGIS
 CREATE EXTENSION postgis;
@@ -60,9 +60,9 @@ INSERT INTO train_reviews (train_id, stars) VALUES (2, 1);
 sudo apt-get install gdal-bin
 
 sudo -i -u postgres
-ogr2ogr -f "PostgreSQL" PG:"dbname=pyzim" zimbabwe-districts.geojson
-csvsql --db postgresql:///pyzim step-4/health.csv --insert
-psql pyzim
+ogr2ogr -f "PostgreSQL" PG:"dbname=jserb" zimbabwe-districts.geojson
+csvsql --db postgresql:///jserb step-4/health.csv --insert
+psql jserb
 ```
 
 Rename and reclassify the districts table
@@ -89,7 +89,7 @@ and serve over HTTPS. Proxy to port 8000:
 ```bash
 wget -qO- https://deb.nodesource.com/setup_10.x | sudo -E bash -
 sudo apt-get install -y nodejs
-cd pycon-zm/workshop-config
+cd postgis-erbil/workshop-config
 npm install
 PORT=8000 node app.js &
 disown
@@ -99,5 +99,5 @@ disown
 
 - JupyterHub
 - SQLAlchemy via https://docs.sqlalchemy.org/en/latest/dialects/postgresql.html#module-sqlalchemy.dialects.postgresql.psycopg2
-- Take-home Tips for installing Python, PostgreSQL, PostGIS, GDAL on systems
+- Take-home Tips for installing PostgreSQL, PostGIS, GDAL on systems
 - Finish adding more notebooks

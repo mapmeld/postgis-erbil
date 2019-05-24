@@ -44,7 +44,7 @@ out;
 
 You can also download tourism=attraction and tourism=hotel datasets.
 
-Camps, hotels, and wells GeoJSON files are all available in this directory.
+Some GeoJSON files are all available in this directory.
 
 - Importing Geo CSVs
 

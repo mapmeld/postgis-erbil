@@ -1,23 +1,17 @@
-# postgis-zimbabwe
+# postgis-erbil
 
-A PostGIS tutorial for PyCon Zimbabwe 2018, with Python and SQL as the main
-languages.
-
-How you can help:
-
-- read about the PyZim community: https://twitter.com/hamub/status/1038060003003916288
-- donate to the PyZim community: https://www.patreon.com/pyzim
-- donate to the Python Software Foundation: https://www.python.org/psf/
+A PostGIS tutorial with NodeJS and SQL as the main languages.
+Based on workshop from PyCon Zimbabwe.
 
 ## Participatory
 
 My goal was to create a PostGIS demo which would be accessible to students
-if they have not installed Python, PostgreSQL, or PostGIS, and even if I
-end up running the workshop without an internet connection:
+if they have not installed NodeJS, PostgreSQL, or PostGIS. It does
+require internet access to use the ObservableHQ-hosted notebooks.
 
-- SQL queries and Python scripts for interacting with local PostGIS
+- SQL queries and NodeJS scripts for interacting with local PostGIS
 - Basic server config for a read-only PostGIS in the cloud
-- (ideally forkable) Python notebooks for PostGIS in the cloud
+- (ideally forkable) JS Observable notebooks for PostGIS in the cloud
 
 ## Topics
 
@@ -25,7 +19,7 @@ end up running the workshop without an internet connection:
 - Setting up PostGIS
 - SQL Review and Added Features of PostGIS
 - Importing CSVs and geodata
-- Python scripts for import, export, querying
+- Commands for import, export, querying
 - Sample queries with map frontends: point-in-polygon, nearest point, buffers, US census statistics, etc
 
 ## Setup for public PostGIS and Jupyter Notebooks

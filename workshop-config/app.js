@@ -6,10 +6,10 @@ const cors = require('cors');
 
 const ropg = require('read-only-pg');
 client = new ropg.Client({
-  database: 'pyzim',
-  user: 'py',
+  database: 'jserb',
+  user: 'js',
   host: 'localhost',
-  password: 'zim'
+  password: 'erb'
 });
 client.connect((err) => {
   console.log(err || 'verified read-only')
