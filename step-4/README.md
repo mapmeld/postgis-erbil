@@ -7,10 +7,10 @@ geospatial queries in PostGIS.
 
 ### Installing and running locally
 
-As the db admin user, import GeoJSON and other files using ogr2ogr (part of GDAL install). Here's how we imported a GeoJSON file into a "zimbabwe_districts" table:
+As the db admin user, import GeoJSON and other files using ogr2ogr (part of GDAL install). Here's how we imported a GeoJSON file into a "erb_districts" table:
 
 ```bash
-ogr2ogr -append -f "PostgreSQL" PG:"dbname=jserb" zimbabwe-districts.geojson
+ogr2ogr -append -f "PostgreSQL" PG:"dbname=jserb" erb-districts.geojson
 ```
 
 Here's how an ESRI Shapefile format can be imported (after unzipping)
@@ -26,19 +26,18 @@ Then run ```psql jserb``` and alter wkb_geometry to a GEOGRAPHY type. If you
 don't have a GEOGRAPHY type, you ought to run ```CREATE EXTENSION postgis;``` first.
 
 ```sql
-ALTER TABLE zimbabwe_districts RENAME TO districts;
+ALTER TABLE erb_districts RENAME TO districts;
 ALTER TABLE districts ALTER wkb_geometry TYPE GEOGRAPHY;
 ```
 
 Importing Geo Data: Other
 
-I found a database of Health Facility points from the Zimbabwe Ministry of Health
-(updated last month https://data.humdata.org/dataset/zimbabwe-health).
+**CSV EXAMPLE**
 
 There was a shapefile option, but I'd like to share how I would import this from CSV or even Excel format. We need to install CSVkit and do the upload (Pandas also can do this).
 
 ```bash
-pip install csvkit psycopg2
+pip install csvkit
 csvsql --db postgresql:///jserb step-4/health.csv --insert
 
 # for remote db

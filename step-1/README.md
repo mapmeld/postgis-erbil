@@ -13,7 +13,12 @@ Everything will be explained in the later steps.
 
 ### Installing and running locally
 
-If you are setting up the database from scratch, see workshop-config: ```node serve.js```
+If you are setting up the database from scratch, see workshop-config:
+
+```
+npm install express compression read-only-pg
+node serve.js
+```
 
 The server will now be available on http://localhost:3000/
 
@@ -21,16 +26,16 @@ The server will now be available on http://localhost:3000/
 
 This is a demo of geospatial data and a PostGIS-powered API which are useful for different projects.
 
-Where did we get this data? How does PostGIS respond so quickly? Why use PostGIS
-instead of a standard Postgres/MySQL db?
+Where did we get this data? How does PostGIS respond so much faster than running
+in the browser? Why use PostGIS instead of a standard Postgres or MySQL db?
 
-The public database has a read-only js:erb user, so you can do SELECT and JOIN
-but not CREATE TABLE or DROP TABLE.
+The cloud database has a read-only js:erb user, so you can do SELECT and JOIN
+but not INSERT, DELETE, UPDATE, CREATE TABLE, or DROP TABLE.
 
 ### Learnings
 
 - Is your computer set up to run a NodeJS server and database?
 - What are your PostgreSQL connection parameters?
 - Concept of Connection and Cursor objects
-- Read-only user js:erb for this tutorial (see /messy and /messy2)
+- Read-only user js:erb for this tutorial (see /messy and /messy2 routes)
 - Responding in JSON format

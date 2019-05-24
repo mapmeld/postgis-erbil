@@ -6,16 +6,17 @@ Before continuing in the tutorial, I want to cover what we know about SQL. Depen
 on skill level, this could be a participatory conversation on what queries we can
 do, or it can be an introduction to SQL as a whole.
 
-I also cover psycopg2 here so that everyone is comfortable writing SQL and Python
-together.
+### Learning SQL
 
-### Installing and running locally
+https://observablehq.com/@nolan-ga/learn-sql-in-10-minutes
 
-If you're coding in Python, use psycopg2 or SQLAlchemy to connect to a database.
+### SQL from NodeJS
 
-```bash
-pip install psycopg2
-```
+If you're coding in NodeJS, you can use the regular ```pg``` module, or use my module which verifies it's read-only access ```npm install read-only-pg```
+
+### SQL from Python
+
+If you're coding in Python, use psycopg2 or SQLAlchemy to connect to a database: ```pip install psycopg2```
 
 ### Interactive Tutorial
 

@@ -3,9 +3,7 @@
 Where do I find geo data for my website?
 
 To make the tutorial as relevant as possible, I want to show how it's possible to
-download information about my workshop country (in this case, Zimbabwe) and import
-it into PostGIS.  This can be difficult to install and troubleshoot, so I might end
-up showing most of this on the projector. Even if students cannot import data in the workshop, they can run future steps with the tables in the PostGIS cloud instance or the Jupyter notebooks.
+download information about my workshop country (in this case, Iraq and Kurdistan) and import it into PostGIS.  This can be difficult to install and troubleshoot, so I might end up showing most of this on the projector. Even if students cannot import data in the workshop, they can run future steps with the tables in the PostGIS cloud instance or the Jupyter notebooks.
 
 All of these datasets will be imported into a PostGIS database (PostgreSQL + extensions).
 
@@ -15,36 +13,68 @@ Data will be used in the later steps.
 
 Install ogr2ogr by installing GDAL.
 
+### Data sources (continuing to work on these)
+
+**Princeton ESOC**
+
+Baghdad neighborhoods https://esoc.princeton.edu/files/89-neighborhoods-baghdad
+Iraq governorates https://esoc.princeton.edu/files/administrative-boundaries-governorates
+Iraq districts https://esoc.princeton.edu/files/administrative-boundaries-districts
+District Level Ethnic https://esoc.princeton.edu/files/ethnicity-study-district-level-ethnic-populations
+
+**MS.gov**
+
+Alternate  KU bounds (3 governorates) https://opendata.gis.ms.gov/items/f9062cae38d148419451318699c8a959?geometry=37.267%2C34.249%2C53.087%2C37.366
+Salahaddin Uni https://opendata.gis.ms.gov/items/c07485932a434a35a64153ce79d5ab2d?geometry=44.012%2C36.14%2C44.043%2C36.146
+
+**GIS-for-you**
+
+Source of Erbil parcels: http://gis-for-you.blogspot.com/2017/11/download-shapefile-building-207200.html
+
+**KRG**
+
+KRG maps data (PDF) http://mnr.krg.org/index.php/en/media-center/videos/9-maps-and-data
+
+**Norfolk County**
+
+IQ-KU Boundaries http://opendata.norfolkcounty.ca/items/9fd49d3fb1e84ab691fe2ac4bc1ac806?geometry=36.884%2C34.193%2C52.704%2C37.313
+
+Neighborhoods = https://services5.arcgis.com/mfAGffSG1CUERVmH/arcgis/rest/services/Erbil_City_Data/FeatureServer/2/query?where=1%3E0&objectIds=&time=&geometry=&geometryType=esriGeometryEnvelope&inSR=&spatialRel=esriSpatialRelIntersects&resultType=none&distance=0.0&units=esriSRUnit_Meter&returnGeodetic=false&outFields=&returnGeometry=true&returnCentroid=false&multipatchOption=xyFootprint&maxAllowableOffset=&geometryPrecision=&outSR=4326&datumTransformation=&applyVCSProjection=false&returnIdsOnly=false&returnUniqueIdsOnly=false&returnCountOnly=false&returnExtentOnly=false&returnQueryGeometry=false&returnDistinctValues=false&orderByFields=&groupByFieldsForStatistics=&outStatistics=&having=&resultOffset=&resultRecordCount=&returnZ=false&returnM=false&returnExceededLimitFeatures=true&quantizationParameters=&sqlFormat=none&f=html&token=
+
+**Harvard CGA**
+
+Erbil 1967 swipe http://harvard-cga.maps.arcgis.com/apps/StorytellingSwipe/index.html?appid=aa7339c0817c49bbac275664a368de99
+
+**HumData**
+
+Cities https://data.humdata.org/dataset/settlements-villages-towns-cities
+Health https://data.humdata.org/dataset/iraq-healthsites
+Damage Assessment https://data.humdata.org/dataset/damage-assessment-of-mosul-ninawa-governorate-iraq-2738
+
 ### Interactive Tutorial
 
 Here we are talking about different data sources. I'm interested to hear where
-PyZim members have found good geo-data before.
+Re-Coded members have found good geodata before.
 
-- Downloading Districts and Wards
+- GeoJSON
 
-I wanted to find districts and election ward boundaries. I was able to locate them
-on data.humdata.org
-
-I also found health data here, but it is not updated since 2007.
+- Shapefile
 
 - Downloading OSM data
 
 (TBD: brief intro to OpenStreetMap)
 
-There are tons of community-built data on OpenStreetMap (OSM), including a monthly-updated, 340MB zipped buildings shapefile from https://data.humdata.org/dataset/hotosm_zwe_buildings
+There are tons of community-built data on OpenStreetMap (OSM), including GeoFabrik
+country-level downloads
 
-I used http://overpass-turbo.eu/ to download ~120 wells mapped on OpenStreetMap
+I used http://overpass-turbo.eu/ to download schools from OpenStreetMap
 
 ```
 node
-  [man_made=water_well]
+  [amenity=school]
   ({{bbox}});
 out;
 ```
-
-You can also download tourism=attraction and tourism=hotel datasets.
-
-Some GeoJSON files are all available in this directory.
 
 - Importing Geo CSVs
 
@@ -52,7 +82,7 @@ There's a good example in Step 4 of uploading a CSV which has latitude and longi
 
 ### Learnings
 
-- Do members of PyZim know good sources for local open data?
+- Do members of Re-Coded know local sources for geo data?
 - What is OpenStreetMap?
 - How can I get data to make quality websites?
 - Links for installing ogr2ogr on my computer

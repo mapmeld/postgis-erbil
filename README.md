@@ -6,12 +6,11 @@ Based on workshop from PyCon Zimbabwe.
 ## Participatory
 
 My goal was to create a PostGIS demo which would be accessible to students
-if they have not installed NodeJS, PostgreSQL, or PostGIS. It does
-require internet access to use the ObservableHQ-hosted notebooks.
+if they have not installed NodeJS, PostgreSQL, or PostGIS.
 
-- SQL queries and NodeJS scripts for interacting with local PostGIS
-- Basic server config for a read-only PostGIS in the cloud
-- (ideally forkable) JS Observable notebooks for PostGIS in the cloud
+- SQL queries and NodeJS scripts/notebooks for local PostGIS
+- Basic config for a read-only PostGIS
+- (internet-required) ObservableHQ notebooks for read-only PostGIS
 
 ## Topics
 

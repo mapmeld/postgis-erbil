@@ -4,3 +4,4 @@ password
 node_modules
 *.log
 package-lock.json
+*.zip

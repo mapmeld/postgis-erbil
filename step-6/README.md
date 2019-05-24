@@ -4,22 +4,20 @@ Let's take the API a step further and make an election poll place app.
 
 ### Technical Setup
 
-Launch the Flask server:
+Launch the Express server:
 
 ```bash
-pip install flask psycopg2 simplejson
-python3 serve.py
+node serve.js
 ```
 
-The server will now be available on http://localhost:5000/
-When you edit serve.py, the server will restart!
+The server will now be available on http://localhost:3000/
 
 ### Interactive Tutorial
 
 Previously we did some queries to find my local district and health facilities.
 
 What if we wanted to do an election app?  In a real example, I would have tables for
-candidates and wards. For now we only have the wards table.
+candidates and wards. For now we only have the Erbil neighborhoods/districts table.
 
 ```sql
 SELECT ST_AsGeoJSON(wkb_geometry)
