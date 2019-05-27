@@ -1,7 +1,7 @@
 # Step 5
 
 We're now going to talk about an API server which uses PostGIS as the database.
-The server is in NodeJS
+The server is in NodeJS.
 
 ### Technical Setup
 
@@ -24,11 +24,13 @@ const express = require('express');
 const app = express();
 ...
 app.get('/local', (request, response) => {
-    let results = client.query("""SELECT adm1, adm2
+    client.query("SELECT adm1, adm2
           FROM districts
-          WHERE ST_Intersects(wkb_geometry, ST_MakePoint(%s, %s))""",
-        (request.query.lng), request.query.lat));
-    return response.json(results);
+          WHERE ST_Intersects(wkb_geometry, ST_MakePoint(%s, %s))",
+          [request.query.lng, request.query.lat],
+          (err, results) => {
+              return response.json(results);
+          });
 });
 ```
 
@@ -41,7 +43,7 @@ if (!results.length) {
 }
 ```
 
-It is not so interesting to show only a name on the map. Let's use the ST_AsGeoJSON function which we learned earlier, to return the boundary of the local district and display it on the map.
+It is not so interesting to show only the district's name. Let's use the ST_AsGeoJSON function which we learned earlier, to return the boundary of the local district and highlight it on the map.
 
 ```sql
 SELECT adm1, adm2, ST_AsGeoJSON(wkb_geometry) FROM districts

@@ -1,0 +1,5516 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2019-05-24T19:53:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/856282429",
+        "amenity": "school",
+        "name": "Rozak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.0356619,
+          36.2038553
+        ]
+      },
+      "id": "node/856282429"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2119364992",
+        "addr:housename": "Villa 12B",
+        "amenity": "school",
+        "name": "British International Schools in Kurdistan - Hawler"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.9635492,
+          36.1884148
+        ]
+      },
+      "id": "node/2119364992"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2384639445",
+        "amenity": "school",
+        "name": "Daingay Bana"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.1354814,
+          36.2001076
+        ]
+      },
+      "id": "node/2384639445"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2384888238",
+        "amenity": "school",
+        "name": "Aakari School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.0444144,
+          36.2194013
+        ]
+      },
+      "id": "node/2384888238"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2692214913",
+        "amenity": "school",
+        "name": "Akiro school for boys"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.9965756,
+          36.225718
+        ]
+      },
+      "id": "node/2692214913"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2697672698",
+        "addr:city": "Erbil",
+        "addr:postcode": "964",
+        "addr:street": "Ainkawa",
+        "amenity": "school",
+        "name": "Ishtar Primary School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.9927314,
+          36.2225675
+        ]
+      },
+      "id": "node/2697672698"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3409052817",
+        "addr:street": "Mar Qardakh Street",
+        "amenity": "school",
+        "name": "Mar Qardakh School",
+        "phone": "+964 750 144 5031",
+        "start_date": "2011",
+        "website": "https://www.facebook.com/MarQardakhSchool/",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.9962097,
+          36.2270676
+        ]
+      },
+      "id": "node/3409052817"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3409052819",
+        "addr:street": "Yazdandokht Street",
+        "amenity": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.9956076,
+          36.226584
+        ]
+      },
+      "id": "node/3409052819"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3778985558",
+        "amenity": "school",
+        "name": "قوتابخانەی عەزە"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.9203881,
+          36.1176827
+        ]
+      },
+      "id": "node/3778985558"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3926014777",
+        "amenity": "school",
+        "name": "primary school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.0071538,
+          36.23327
+        ]
+      },
+      "id": "node/3926014777"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3957516984",
+        "amenity": "school",
+        "name": "ئامادەیی بێسارانی كوڕان",
+        "name:ar": "مدرسة الٳعدادیة بیسارانی",
+        "name:en": "Besarani Preparatory school (Boys)",
+        "name:ku": "ئامادەیی بێسارانی کوڕان",
+        "name:ku-Arab": "ئامادەیی بێسارانی كوڕان",
+        "operator": "Mr. Omer (Manager)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.117138,
+          36.1527355
+        ]
+      },
+      "id": "node/3957516984"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3957516985",
+        "amenity": "school",
+        "name": "قوتابخانەی پاوەی بنەڕەتی",
+        "name:ar": "مدرسة باوة",
+        "name:en": "Pawa Junior high school (Boys)",
+        "name:ku": "قوتابخانەی ناوەندی پاوەی کوڕان",
+        "name:ku-Arab": "قوتابخانەی پاوەی بنەڕەتی"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.1183412,
+          36.1527671
+        ]
+      },
+      "id": "node/3957516985"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3957516986",
+        "amenity": "school",
+        "name": "یاریگای لاوان",
+        "name:ku-Arab": "یاریگای لاوان"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.1155534,
+          36.1559342
+        ]
+      },
+      "id": "node/3957516986"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3957517440",
+        "amenity": "school",
+        "name": "قوتابخانەی بنەڕەتی پەرێز",
+        "name:ku": "قوتابخانەی بنەڕەتی پەرێز"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.1417078,
+          36.2021969
+        ]
+      },
+      "id": "node/3957517440"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3957538347",
+        "addr:street": "Arbil-Koya Road",
+        "amenity": "school",
+        "name": "ساباتى هاورئ",
+        "name:ar": "ساباتى هاورئ",
+        "name:en": "sabat",
+        "name:ku": "ساباتی ھاوڕێ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.1223638,
+          36.1977178
+        ]
+      },
+      "id": "node/3957538347"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3957538349",
+        "addr:city": "هەولێر",
+        "amenity": "school",
+        "name": "قوتابخانەی سەدایی کچان"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.1239731,
+          36.1900464
+        ]
+      },
+      "id": "node/3957538349"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3957538350",
+        "amenity": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.123265,
+          36.1915704
+        ]
+      },
+      "id": "node/3957538350"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3957538352",
+        "amenity": "school",
+        "name": "قوتابخانەی ئایندە 2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.1270416,
+          36.1834221
+        ]
+      },
+      "id": "node/3957538352"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4125114089",
+        "addr:street": "60 Meter road",
+        "amenity": "school",
+        "name": "zanyari sarataey",
+        "name:en": "Zanyary Elementary School",
+        "name:ku": "قوتابخانەی زانیاری سەرەتای"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.0047542,
+          36.1750047
+        ]
+      },
+      "id": "node/4125114089"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4126835066",
+        "amenity": "school",
+        "name": "Argosh School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.0617329,
+          36.1772278
+        ]
+      },
+      "id": "node/4126835066"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4192507655",
+        "amenity": "school",
+        "name": "ثانوية سيوان للبنات",
+        "name:en": "Saywan high school for girls",
+        "name:ku": "دواناوەندی سەیوانی کچان"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.0343512,
+          36.2121196
+        ]
+      },
+      "id": "node/4192507655"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4210253405",
+        "addr:city": "Erbil",
+        "amenity": "school",
+        "name": "Central High School",
+        "name:ar": "مدرسة ژین للبنات",
+        "name:ckb": "قوتابخانەی ژینی کچان",
+        "name:en": "Zheen High School - Girls",
+        "religion": "muslim"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.0120805,
+          36.1551602
+        ]
+      },
+      "id": "node/4210253405"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4210282659",
+        "addr:city": "هەولێر",
+        "amenity": "school",
+        "name": "قوتابخانەی زمناكۆی بنەڕەتی",
+        "name:ar": "مدرسة ئاگرداخ الإبتدائية",
+        "name:ckb": "قوتابخانەی ئاگرداخی بنەڕەتی",
+        "name:en": "Agirdakh Secondary School",
+        "religion": "muslim"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.0108865,
+          36.1529636
+        ]
+      },
+      "id": "node/4210282659"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4216947689",
+        "amenity": "school",
+        "name": "Institut Français "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.0016757,
+          36.1926091
+        ]
+      },
+      "id": "node/4216947689"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4258020993",
+        "addr:city": "هەولێر",
+        "amenity": "school",
+        "name": "قوتابخانەی هەولێر"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.0290714,
+          36.1671124
+        ]
+      },
+      "id": "node/4258020993"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4293157490",
+        "addr:street": "Erbil - Musul Road",
+        "amenity": "school",
+        "name": "British school",
+        "name:en": "British International School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.935587,
+          36.1768617
+        ]
+      },
+      "id": "node/4293157490"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4297421089",
+        "amenity": "school",
+        "name": "Rona"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.9652471,
+          36.1937722
+        ]
+      },
+      "id": "node/4297421089"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4302897289",
+        "amenity": "school",
+        "email": "paimangay.kany@gmail.com",
+        "name": "Kany institute for Computer Science ",
+        "website": "http://www.kanypci.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.0277182,
+          36.184592
+        ]
+      },
+      "id": "node/4302897289"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4329645395",
+        "amenity": "school",
+        "name": "Shangal school",
+        "name:ar": "قوتابخانه ي شنگال",
+        "name:en": "Shangal School",
+        "name:ku": "قوتابخانەی شەنگاڵ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.0263861,
+          36.1613332
+        ]
+      },
+      "id": "node/4329645395"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4351029911",
+        "amenity": "school",
+        "name": "Shawes Elementary School",
+        "name:ckb": "قوتابخانەی شاویسی سەرەتایی",
+        "phone": "7507463022",
+        "website": "http://www.facebook.com/shaways1435"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.0799879,
+          36.246108
+        ]
+      },
+      "id": "node/4351029911"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4357104895",
+        "amenity": "school",
+        "name:en": "Kingery Institute"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.9973167,
+          36.2226426
+        ]
+      },
+      "id": "node/4357104895"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4357599799",
+        "amenity": "school",
+        "name": "lana primary school",
+        "name:ar": "مدرسە الٳبتدائیة لانة",
+        "name:en": "Lana Primary school",
+        "name:ku": "قوتابخانەی بنەڕەتی لانە"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.1072042,
+          36.1510413
+        ]
+      },
+      "id": "node/4357599799"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4360457492",
+        "addr:street": "شیخ احمد",
+        "amenity": "school",
+        "name": "Darsim School",
+        "name:ar": "مدرسة درسيم",
+        "name:ku": "قوتابخانه ی ده رسیم"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.0473348,
+          36.1999508
+        ]
+      },
+      "id": "node/4360457492"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4368777695",
+        "amenity": "school",
+        "name": "Ary"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.0157879,
+          36.2177921
+        ]
+      },
+      "id": "node/4368777695"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4368800889",
+        "addr:street": "شارع كولان",
+        "amenity": "school",
+        "name": "Rozhe Nwe school for boys",
+        "name:en": "قوتابخانەی ڕۆژی نوێی كوڕان",
+        "name:ku": "قوتابخانەی ڕۆژی نوێی كوڕان"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.0231511,
+          36.2199092
+        ]
+      },
+      "id": "node/4368800889"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4369761689",
+        "amenity": "school",
+        "name": "قوتابخانه‌ی بتوێن ی نموونه‌یی تێکه‌ڵاو",
+        "name:ar": "مدرسة بتوين النموذجية المختلطة",
+        "name:en": "Btween Exemplary Primary School",
+        "name:ku": "قوتابخانه‌ی بتوێن ی نموونه‌یی تێکه‌ڵاو"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.0257862,
+          36.1642217
+        ]
+      },
+      "id": "node/4369761689"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4370194283",
+        "addr:street": "60 Meter road",
+        "amenity": "school",
+        "name": "اعدادية صناعة(أماده يي پیشه سازی)",
+        "name:ar": "اعدادية صناعة",
+        "name:en": "Industrial Preparatory",
+        "name:ku": "ئامادەیی پیشەسازی"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.0254278,
+          36.1952915
+        ]
+      },
+      "id": "node/4370194283"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4370492590",
+        "addr:city": "هەولێر",
+        "amenity": "school",
+        "name": "قوتابخانەی ئامادەیی تریفەی کچان",
+        "name:ckb": "قوتابخانەی ئامادەیی تریفەی کچان",
+        "opening_hours": "Sa-Th 09:00-12:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.0635339,
+          36.1221495
+        ]
+      },
+      "id": "node/4370492590"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4370511889",
+        "amenity": "school",
+        "name": "قوتابخانەی هەڵەبجەی بنەڕەتی",
+        "name:ckb": "قوتابخانەی هەڵەبجەی بنەڕەتی",
+        "opening_hours": "Sa-Th 09:00-12:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.067813,
+          36.1209324
+        ]
+      },
+      "id": "node/4370511889"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4371586317",
+        "amenity": "school",
+        "name": "أماده یی وه ستا ره جب(اعدادیة وستا رجب للسيارات)",
+        "name:ar": "أماده یی وه ستا ره جب(اعدادیة وستا رجب للسيارات)",
+        "name:en": "Wasta Rajab cars school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.0295792,
+          36.2158333
+        ]
+      },
+      "id": "node/4371586317"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4374189789",
+        "amenity": "school",
+        "name": "كوليزي تةندرووستي تكنيكي هةولير",
+        "name:ar": "جامعة التكنيكية لأربيل / قسم الطبي",
+        "name:en": "erbil polytechnic university/collage of medical",
+        "name:ku": "كوليزي تةندرووستي تكنيكي هةولير",
+        "opening_hours": "Su-Th 09:00-01:00",
+        "website": "https://epu.edu.iq/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.0155508,
+          36.1450667
+        ]
+      },
+      "id": "node/4374189789"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4374682501",
+        "amenity": "school",
+        "name": "Goethe Institute Erbil",
+        "phone": "07502067587",
+        "website": "http://www.goethe.de/ins/iq/ar/lp.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.9816951,
+          36.1714973
+        ]
+      },
+      "id": "node/4374682501"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4374832097",
+        "amenity": "school",
+        "name": "قوتابخانەی بنەڕەتیی قەڵای کچان",
+        "name:ckb": "قوتابخانەی بنەڕەتیی قەڵای کچان"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.0323849,
+          36.1943801
+        ]
+      },
+      "id": "node/4374832097"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4375420801",
+        "addr:city": "هەولێر",
+        "addr:street": "شەقامی بارزانی نەمر",
+        "amenity": "school",
+        "name": "قوتابخانەی ئامادەیی کوردستانی کوڕان",
+        "name:ar": "اعدادية كوردستان للبنين",
+        "name:ckb": "قوتابخانەی ئامادەیی کوردستانی کوڕان",
+        "name:en": "Kurdistan Preparatory School for Boys"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.01952,
+          36.1923489
+        ]
+      },
+      "id": "node/4375420801"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4375420802",
+        "addr:city": "هەولێر",
+        "addr:street": "شەقامی بارزانی نەمر",
+        "amenity": "school",
+        "name": "قوتابخانەی بابان",
+        "name:ar": "مدرسة بابان",
+        "name:ckb": "قوتابخانەی بابان",
+        "name:en": "Baban School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.0195269,
+          36.1909229
+        ]
+      },
+      "id": "node/4375420802"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4375443995",
+        "addr:street": "Brayati",
+        "amenity": "school",
+        "name": "قوتابخانەی بنەڕەتیی تێکەڵاوی دیلان",
+        "name:ckb": "قوتابخانەی بنەڕەتیی تێکەڵاوی دیلان"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.029169,
+          36.1941347
+        ]
+      },
+      "id": "node/4375443995"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4377769995",
+        "addr:street": "60 Meter road",
+        "amenity": "school",
+        "name": "مدرسة هزار(HAZHAR SCHOOL)",
+        "name:ar": "مدرسة هزار",
+        "name:en": "Hazhar School",
+        "name:ku": "قوتابخانەی هەژار"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.0256427,
+          36.1873581
+        ]
+      },
+      "id": "node/4377769995"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4377792889",
+        "amenity": "school",
+        "name": "Blisa School",
+        "name:ar": "مدرسة بليسة",
+        "name:ckb": "قوتابخانەى بليسه"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.0340138,
+          36.1902102
+        ]
+      },
+      "id": "node/4377792889"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4378782597",
+        "amenity": "school",
+        "name": "ئاماده‌یی پیشه‌ی گه‌شتوگوزاری هه‌ولێر",
+        "name:en": "Vocational high school for Hotel and Tourism",
+        "name:ku": "ئاماده‌یی پیشه‌ی گه‌شتوگوزاری هه‌ولێر",
+        "website": "https://www.facebook.com/VocationalhighschoolforHotelandTourism/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.9894032,
+          36.2290835
+        ]
+      },
+      "id": "node/4378782597"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4394820189",
+        "amenity": "school",
+        "name": "ئامادەیی باخانی کچان",
+        "name:ar": "مدرسة الٳعدادیة باخان (بنات)",
+        "name:en": "Bakhan Preparatory school (Girls)",
+        "name:ku": "ئامادەیی باخانی کچان",
+        "name:ku-Arab": "ئامادەیی باخانی کچان"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.1116858,
+          36.156352
+        ]
+      },
+      "id": "node/4394820189"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4395552691",
+        "addr:city": "هەولێر",
+        "addr:street": "شەقامی بارزانی نەمر",
+        "amenity": "school",
+        "name": "قوتابخانەی ئامادەیی کۆماری کوڕان",
+        "name:ckb": "قوتابخانەی ئامادەیی کۆماری کوڕان",
+        "name:en": "Komari School for boys"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.0176246,
+          36.195143
+        ]
+      },
+      "id": "node/4395552691"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4397071601",
+        "amenity": "school",
+        "name": "Hawler Typical secondary school",
+        "name:ar": "Hawler Typical secondary school",
+        "name:en": "Hawler Typical secondary school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.0337967,
+          36.1689056
+        ]
+      },
+      "id": "node/4397071601"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4398465089",
+        "amenity": "school",
+        "name": "قوتابخانەی هەردی بنەڕەتی",
+        "name:ar": "المدرسة هەردی",
+        "name:en": "Hardi  primary school",
+        "name:ku-Arab": "قوتابخانەی هەردی بنەڕەتی"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.1332561,
+          36.1532238
+        ]
+      },
+      "id": "node/4398465089"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4398465289",
+        "amenity": "school",
+        "name": "قوتابخانەی مەحموود زامدار",
+        "name:ar": "المدرسة محمود زامدار + پەری کچان + سافەی بنەڕەتی",
+        "name:en": "Mahmood Zamdar Preparatory school+ sava + pary kchan",
+        "name:ku": "قوتابخانەی ئامادەیی مەحموود زامدار + قوتابخانەی سافەی بنەرەتی +قوتابخانەی پەری کچان",
+        "name:ku-Arab": "قوتابخانەی مەحموود زامدار"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.1301422,
+          36.1566182
+        ]
+      },
+      "id": "node/4398465289"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4401235990",
+        "amenity": "school",
+        "name": "مدرسه اکام",
+        "name:en": "Akam basic school",
+        "name:ku": "قوتابخانەی ئاکامی بنەڕەتی تێکەڵاو"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.1212603,
+          36.1587688
+        ]
+      },
+      "id": "node/4401235990"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4402196692",
+        "addr:street": "kasnazan",
+        "amenity": "school",
+        "name": "قوتابخانەی ئامادەیی سێنک",
+        "name:ckb": "قوتابخانەی ئامادەیی سێنک",
+        "name:en": "senk high school",
+        "opening_hours": "Sa-Th",
+        "phone": "009647501648070"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.1311824,
+          36.2003138
+        ]
+      },
+      "id": "node/4402196692"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4409201293",
+        "amenity": "school",
+        "name": "قوتابخانەی ئامادەیی دارەتوویی کچان",
+        "name:ckb": "قوتابخانەی ئامادەیی دارەتوویی کچان"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.0446012,
+          36.1256914
+        ]
+      },
+      "id": "node/4409201293"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4412975296",
+        "amenity": "school",
+        "name": "قوتابخانەی شەهیدانی یەكی شوباتی بنەڕەتی",
+        "name:ar": "مدرسة الٳبتدائیة شهیداني یةكي شباط",
+        "name:en": "Shahidani yaki shubat Primary school",
+        "name:ku": "قوتابخانەی شەهیدانی یەكی شوباتی بنەڕەتی"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.1236225,
+          36.1536229
+        ]
+      },
+      "id": "node/4412975296"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4413012196",
+        "amenity": "school",
+        "name": "قوتابخانەی قانیعی بنەڕەتی",
+        "name:ar": "مدرسة الٳبتدائیة قانیع",
+        "name:en": "Qanih Primary school",
+        "name:ku": "قوتابخانەی بنەڕەتی قانیع",
+        "name:ku-Arab": "قوتابخانەی قانیعی بنەڕەتی"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.1226919,
+          36.1536307
+        ]
+      },
+      "id": "node/4413012196"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4421936089",
+        "amenity": "school",
+        "name": "مدرسة زوزك",
+        "name:ar": "مدرسة زوزك"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.0733013,
+          36.2082811
+        ]
+      },
+      "id": "node/4421936089"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4425474096",
+        "addr:street": "Alban",
+        "amenity": "school",
+        "name": "ولی دیونة",
+        "name:ar": "قوتابخانەی وەلی دێوانەی کوڕان",
+        "name:en": "قوتابخانەی وەلی دێوانەی کوڕان",
+        "name:ku": "قوتابخانەی وەلی دێوانەی کوڕان"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.9912142,
+          36.1642748
+        ]
+      },
+      "id": "node/4425474096"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4425500889",
+        "amenity": "school",
+        "name": "بەختیاری",
+        "name:ar": "بختياري",
+        "name:en": "Bextyari",
+        "name:ku": "بەختیاری"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.9931467,
+          36.1657045
+        ]
+      },
+      "id": "node/4425500889"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4427158491",
+        "amenity": "school",
+        "name": "شاكر فه‌تاح",
+        "name:ar": "شاكر فتاح",
+        "name:en": "Shakir Fattah",
+        "name:ku": "شاكر فه‌تاح"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.9903767,
+          36.1701875
+        ]
+      },
+      "id": "node/4427158491"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4427171389",
+        "addr:city": "هەولێر",
+        "amenity": "school",
+        "name": "قوتابخانەی حەپسەخانی نەقیب"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.0279188,
+          36.1685214
+        ]
+      },
+      "id": "node/4427171389"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4428686489",
+        "amenity": "school",
+        "name": "قوتابخانەی مەلا فەندی",
+        "name:en": "mala fandi school",
+        "name:ku": "قوتابخانەی مەلا فەندی"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.0327743,
+          36.1754428
+        ]
+      },
+      "id": "node/4428686489"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4430151390",
+        "addr:street": "Gulan Road",
+        "amenity": "school",
+        "name": "دواناوه‌ندی چنار",
+        "name:ar": "قوتابخانەی ئامادەیی چناری کچان",
+        "name:en": "Chnar Preparatory School for girls",
+        "name:ku": "قوتابخانەی ئامادەیی چناری کچان"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.9912662,
+          36.1687901
+        ]
+      },
+      "id": "node/4430151390"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4437225889",
+        "amenity": "school",
+        "email": "info@maarifschools.edu.krd",
+        "name": "قوتابخانەی مەعارفی نێودەوڵەتی - هەولێر",
+        "name:ar": "مدارس معارف الدولية - اربيل",
+        "name:en": "International Maarif Schools - Erbil",
+        "name:ku": "قوتابخانة معارفى نيودةلةتي - هةولير",
+        "opening_hours": "Su-Th 08:00-16:00",
+        "phone": "+964 751 741 7879",
+        "website": "http://www.maarifschools.edu.krd"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.9534629,
+          36.172526
+        ]
+      },
+      "id": "node/4437225889"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4438915993",
+        "amenity": "school",
+        "name": "قوتابخانەی شوانی بنەڕەتی تێكەڵاو",
+        "name:ar": "مدرسە شوان ابتدائی",
+        "name:en": "Shwan primary school",
+        "name:ku": "قوتابخانەی بنەڕەتی شوان",
+        "name:ku-Arab": "قوتابخانەی شوانی بنەڕەتی تێكەڵاو"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.1180756,
+          36.1590156
+        ]
+      },
+      "id": "node/4438915993"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4439140989",
+        "addr:street": "Shaqlawa Road",
+        "amenity": "school",
+        "name": "Halo Elementary",
+        "name:en": "Halo Scholl",
+        "name:ku": "مەکتەب هەڵۆی سەرەتایی"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.031263,
+          36.2167625
+        ]
+      },
+      "id": "node/4439140989"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4446056289",
+        "amenity": "school",
+        "name:en": "Erbil Technical Health Collage"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.0156483,
+          36.1445751
+        ]
+      },
+      "id": "node/4446056289"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4447926589",
+        "addr:street": "hawlere nwe - sêbardan",
+        "amenity": "school",
+        "name": "قوتابخانه ى ماموستا فرهاد",
+        "name:ar": "مدرسة معلم فرهاد",
+        "name:en": "Farhad school",
+        "name:ku": "قوتابخانه ى ماموستا فرهاد"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.0820985,
+          36.2123315
+        ]
+      },
+      "id": "node/4447926589"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4449467090",
+        "addr:city": "Erbil",
+        "addr:postcode": "EBL 550",
+        "addr:street": "Old Bahrka Road",
+        "amenity": "school",
+        "email": "info@bnu.edu.iq",
+        "name": "Bayan University",
+        "name:ar": "جامعة البيان",
+        "name:ckb": "زانکۆی بەیان",
+        "website": "http://bnu.edu.iq",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.0113584,
+          36.2180542
+        ]
+      },
+      "id": "node/4449467090"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4451502093",
+        "amenity": "school",
+        "name": "قوتابخانەی بنەڕەتی تێکەڵاوی زین ستی"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.0628969,
+          36.2530631
+        ]
+      },
+      "id": "node/4451502093"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4465516890",
+        "amenity": "school",
+        "name": "روخساری بنەرەتی",
+        "name:ar": "مدرسە روخسار",
+        "name:en": "Rukhsar school",
+        "name:ku": "روخساری بنەرەتی"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.9612632,
+          36.2004787
+        ]
+      },
+      "id": "node/4465516890"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4465516891",
+        "amenity": "school",
+        "name": "ئامادەيی کاژين / داهێن",
+        "name:ku": "ئامادەيی کاژين / داهێن"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.9583841,
+          36.1938025
+        ]
+      },
+      "id": "node/4465516891"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4465525189",
+        "amenity": "school",
+        "name:en": "Technical College"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.036264,
+          36.1436729
+        ]
+      },
+      "id": "node/4465525189"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4472942495",
+        "amenity": "school",
+        "name": "قوتابخانەی بنەڕەتی دارەتوو"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.0586001,
+          36.1207337
+        ]
+      },
+      "id": "node/4472942495"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4473617390",
+        "amenity": "school",
+        "name": "قوتابخانەی نازدار",
+        "name:ar": "مدرسه نازدار",
+        "name:en": "Nazdar School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.032996,
+          36.2015048
+        ]
+      },
+      "id": "node/4473617390"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4477620050",
+        "addr:city": "Erbil",
+        "amenity": "school",
+        "name": "قوتابخانەیی شێروانەی بنەڕەتی",
+        "name:ckb": "قوتابخانەیی شێروانەی بنەڕەتی"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.0593105,
+          36.122722
+        ]
+      },
+      "id": "node/4477620050"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4477663542",
+        "addr:city": "Erbil",
+        "amenity": "school",
+        "name": "قوتابخانەیی بنەڕەتی ئەژی",
+        "name:ckb": "قوتابخانەیی بنەڕەتی ئەژی"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.0731096,
+          36.116569
+        ]
+      },
+      "id": "node/4477663542"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4477667504",
+        "addr:city": "Erbil",
+        "amenity": "school",
+        "name": "قوتابخانەیی ژەنیاریی بنەڕەتی",
+        "name:ckb": "قوتابخانەی ژەنیاری بنەڕەتی",
+        "name:en": "Zhanyar School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.080243,
+          36.1138389
+        ]
+      },
+      "id": "node/4477667504"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4477738260",
+        "addr:city": "Erbil",
+        "amenity": "school",
+        "name": "قوتابخانەیی ڕەوەزیی بنەڕەتی",
+        "name:ckb": "قوتابخانەیی ڕەوەزیی بنەڕەتی"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.0764744,
+          36.1096741
+        ]
+      },
+      "id": "node/4477738260"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4481666589",
+        "amenity": "school",
+        "name": "قوتابخانەی دارەتووی کوڕان",
+        "name:ku-Arab": "قوتابخانەی دارەتووی کوڕان"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.0587949,
+          36.1225072
+        ]
+      },
+      "id": "node/4481666589"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4484284691",
+        "amenity": "school",
+        "name": "باخچه ى ساوايانى ئاشنا",
+        "name:ar": "باخچه ى ساوايانى ئاشنا"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.007345,
+          36.2062789
+        ]
+      },
+      "id": "node/4484284691"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4484295890",
+        "amenity": "school",
+        "name": "قوتابخانه ى شنروى",
+        "name:ar": "قوتابخانه ى شنروى"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.994924,
+          36.2060086
+        ]
+      },
+      "id": "node/4484295890"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4484295989",
+        "addr:street": "Old Bahrka Road",
+        "amenity": "school",
+        "name": "قوتابخانه ى  هه ڤال",
+        "name:ar": "قوتابخانه ى  هه ڤال",
+        "name:en": "Haval School",
+        "name:ku": "قوتابخانەی هەڤاڵ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.0077899,
+          36.2109253
+        ]
+      },
+      "id": "node/4484295989"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4486255699",
+        "addr:city": "هەولێر",
+        "addr:street": "شەقامی کەرکووک",
+        "amenity": "school",
+        "name": "ئامادەیی ساڤا",
+        "name:en": "Sava Preparatory School",
+        "name:ku": "ئامادەیی ساڤا",
+        "name:ku-Arab": "ئامادەیی ساڤا"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.0156491,
+          36.1629687
+        ]
+      },
+      "id": "node/4486255699"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4487038392",
+        "amenity": "school",
+        "name": "قوتابخانەی ساسان و ئەڤین",
+        "name:ku": "قوتابخانەی ساسان و ئەڤین"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.0477553,
+          36.1180919
+        ]
+      },
+      "id": "node/4487038392"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4487040689",
+        "amenity": "school",
+        "name": "قوتابخانەی ئامێز",
+        "name:ku-Arab": "قوتابخانەی ئامێز"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.058862,
+          36.1225209
+        ]
+      },
+      "id": "node/4487040689"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4494049997",
+        "amenity": "school",
+        "name": "قوتابخانەی رێنوویی",
+        "name:ku-Arab": "قوتابخانەی رێنوویی"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.0664201,
+          36.1155835
+        ]
+      },
+      "id": "node/4494049997"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4494049998",
+        "addr:city": "دارەتوو",
+        "amenity": "school",
+        "name": "قوتابخانەی پێشمەرگە",
+        "name:ar": "مدرسة بيشمركة",
+        "name:en": "peshmerga school",
+        "name:ku": "قوتابخانەی پێشمەرگە"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.0498814,
+          36.1222062
+        ]
+      },
+      "id": "node/4494049998"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4494100691",
+        "amenity": "school",
+        "name": "قوتابخانەی خەندە و داستان",
+        "name:ckb": "قوتابخانەی خەندە و داستان"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.0684226,
+          36.1151387
+        ]
+      },
+      "id": "node/4494100691"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4494100790",
+        "amenity": "school",
+        "name": "قوتابخانەی پرژە",
+        "name:en": "prza school",
+        "name:ku": "قوتابخانەی پرژە"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.0482928,
+          36.1224597
+        ]
+      },
+      "id": "node/4494100790"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4494638328",
+        "amenity": "school",
+        "name": "Ishik Ronaki elemenatary school",
+        "name:en": "school ishq",
+        "name:ku": "qwtabxanay ishq"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.0243525,
+          36.1670577
+        ]
+      },
+      "id": "node/4494638328"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4494749291",
+        "amenity": "school",
+        "name": "قوتابخانەى دێرین"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.0735215,
+          36.1164601
+        ]
+      },
+      "id": "node/4494749291"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4494762590",
+        "addr:city": "هەولێر",
+        "amenity": "school",
+        "name": "قوتابخانەی زاگرۆس",
+        "name:ckb": "قوتابخانەى زاگروس"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.024125,
+          36.182525
+        ]
+      },
+      "id": "node/4494762590"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4499034399",
+        "amenity": "school",
+        "name": "Saydawa School",
+        "name:ku": "قوتابخانەی سەیداوە"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.0188961,
+          36.1817639
+        ]
+      },
+      "id": "node/4499034399"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4502787694",
+        "amenity": "school",
+        "name": "قوتابخانەى شاهەنگ",
+        "name:ku": "قوتابخانەى شاهەنگ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.0447853,
+          36.1737605
+        ]
+      },
+      "id": "node/4502787694"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4505643193",
+        "addr:city": "هەولێر",
+        "addr:street": "شەقامی بارزانی نەمر",
+        "amenity": "school",
+        "name": "Rzgary Preparatory School",
+        "name:ku": "ئامادەیی ڕزگاری کوڕان"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.0146141,
+          36.1819976
+        ]
+      },
+      "id": "node/4505643193"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4510206291",
+        "amenity": "school",
+        "name": "قوتابخانەی تەسامح",
+        "name:ku": "قوتابخانەی تەسامح"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.0607483,
+          36.1521029
+        ]
+      },
+      "id": "node/4510206291"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4510242192",
+        "amenity": "school",
+        "name": "قوتابخانەی ئەلوەند",
+        "name:ar": "مدرسة الوند",
+        "name:en": "Alwand School",
+        "name:ku": "قوتابخانەی ئەڵوەند",
+        "name:ku-Arab": "قوتابخانەی ئەلوەند"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.1036423,
+          36.1565204
+        ]
+      },
+      "id": "node/4510242192"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4512556189",
+        "amenity": "school",
+        "name": "قوتابخانەی ئامادەیی هێمنی کوڕان",
+        "name:ckb": "قوتابخانەی ئامادەیی هێمنی کوڕان"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.9716617,
+          36.158473
+        ]
+      },
+      "id": "node/4512556189"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4515796590",
+        "amenity": "school",
+        "name": "پەیمانگای قەلا و منارە",
+        "name:en": "Computer science institute",
+        "name:ku": "پەیمانگای قەلا و منارە"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.9657789,
+          36.1602803
+        ]
+      },
+      "id": "node/4515796590"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4515801889",
+        "amenity": "school",
+        "name": "مدرسة هلويست",
+        "name:ar": "مدرسة هلويست",
+        "name:en": "Halwest primary School",
+        "name:ku": "Halwest",
+        "opening_hours": "Sa-Th 08:00-17:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.0341561,
+          36.2021917
+        ]
+      },
+      "id": "node/4515801889"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4515888489",
+        "addr:city": "هەولێر",
+        "addr:housenumber": "248",
+        "addr:postcode": "44001",
+        "addr:street": "شەقامی نافع یونس",
+        "amenity": "school",
+        "name": "CIS College",
+        "name:ar": "معهد علوم الحاسبات وإدارة الاعمال",
+        "name:ckb": "پەیمانگای سی ئای ئێس",
+        "name:en": "CIS College",
+        "name:ku": "cis college",
+        "opening_hours": "Su-Th 09:00-15:00",
+        "phone": "00964 750 276 1010"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.0356245,
+          36.1954054
+        ]
+      },
+      "id": "node/4515888489"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4515888589",
+        "addr:street": "40 Meter Road",
+        "amenity": "school",
+        "name": "فلكة الزراعة",
+        "name:ar": "فلكة الزراعة",
+        "name:en": "Flka zara3a",
+        "opening_hours": "24/7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.0282849,
+          36.1653873
+        ]
+      },
+      "id": "node/4515888589"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4517677490",
+        "addr:city": "هەولێر",
+        "addr:postcode": "44001",
+        "addr:street": "شەقامی ئەحمەدی خانی",
+        "amenity": "school",
+        "name": "قوتابخانەی ئەحمەدی خانی",
+        "name:ar": "مەكتبی ئەحمەدی خانی",
+        "name:en": "Ahmadi Xani School",
+        "name:ku": "مەكتەبی ئەحمەدی خانی"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.0255988,
+          36.1574645
+        ]
+      },
+      "id": "node/4517677490"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4524972296",
+        "addr:street": "Zagros Road",
+        "amenity": "school",
+        "name": "قوتابخانەی ئامادەیی ڕۆناکی کوڕان",
+        "name:ar": "اعدادية إيشق الأهلية للبنين",
+        "name:ckb": "قوتابخانەی ئامادەیی ڕۆناکی کوڕان",
+        "name:en": "ISHIK College",
+        "opening_hours": "24/7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.9824987,
+          36.2006696
+        ]
+      },
+      "id": "node/4524972296"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4526978689",
+        "addr:city": "هەولێر",
+        "addr:postcode": "44001",
+        "amenity": "school",
+        "name": "قوتابخانەی بنەڕەتیی حەپسەخان",
+        "name:ckb": "قوتابخانەی بنەڕەتیی حەپسەخان",
+        "name:en": "Hapsaxan school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.0163331,
+          36.168464
+        ]
+      },
+      "id": "node/4526978689"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4527839193",
+        "amenity": "school",
+        "name": "قوتابخانەی ئەمریکی",
+        "name:en": "American school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.9852832,
+          36.2052308
+        ]
+      },
+      "id": "node/4527839193"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4531148090",
+        "amenity": "school",
+        "name": "قوتابخانەی ئامادەیی ئاگرینی زانستی ئێوارانی کوڕان",
+        "name:ckb": "قوتابخانەی ئامادەیی ئاگرینی زانستی ئێوارانی کوڕان",
+        "name:en": "Agrin Scientific Preparatory School for boys"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.0309578,
+          36.1663637
+        ]
+      },
+      "id": "node/4531148090"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4539388589",
+        "amenity": "school",
+        "name": "İshik",
+        "name:ar": "İshik",
+        "name:en": "ishik university"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.9565754,
+          36.1681909
+        ]
+      },
+      "id": "node/4539388589"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4548679392",
+        "amenity": "school",
+        "name": "Lana scholl",
+        "name:ar": "لانه",
+        "name:en": "Lana",
+        "name:ku": "Lana scholl"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.0506455,
+          36.1432462
+        ]
+      },
+      "id": "node/4548679392"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4548807893",
+        "addr:street": "40 Meter Road",
+        "amenity": "school",
+        "name": "قوتابخانەی هیوای کوڕان",
+        "name:ar": "مدرسة هيوا للبنين",
+        "name:en": "Hiwa School for boys",
+        "name:ku": "قوتابخانەی هیوای کوڕان"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.0358553,
+          36.1865883
+        ]
+      },
+      "id": "node/4548807893"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4548807991",
+        "amenity": "school",
+        "name": "قوتابخانەی جودی بنەڕەتی تێکەڵاو",
+        "name:ar": "قوتابخانەی جودی بنەڕەتی تێکەڵاو",
+        "name:en": "Judi Elementary School",
+        "name:ku": "المدرسة الجودي"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.0301632,
+          36.1826563
+        ]
+      },
+      "id": "node/4548807991"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4548838789",
+        "addr:street": "Molla Afandy",
+        "amenity": "school",
+        "name": "قوتابخانەی کارۆخی کوڕان",
+        "name:ar": "قوتابخانەی کارۆخی کوڕان",
+        "name:en": "قوتابخانەی کارۆخی کوڕان",
+        "name:ku": "قوتابخانەی کارۆخی کوڕان"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.0257316,
+          36.1757358
+        ]
+      },
+      "id": "node/4548838789"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4548838889",
+        "addr:street": "40 Meter Road",
+        "amenity": "school",
+        "name": "قوتابخانەی گەلی کوڕان",
+        "name:ar": "مدرسة كلي للبنين",
+        "name:en": "Gali School for boys",
+        "name:ku": "قوتابخانەی گەلی کوڕان"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.0355599,
+          36.1817289
+        ]
+      },
+      "id": "node/4548838889"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4550689689",
+        "addr:city": "هەولێر",
+        "addr:street": "شەقامی هەژار",
+        "amenity": "school",
+        "name": "قوتابخانەی ئامادەیی ئازادی کوڕان"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.0087887,
+          36.1766969
+        ]
+      },
+      "id": "node/4550689689"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4551970291",
+        "amenity": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.9565743,
+          36.1682305
+        ]
+      },
+      "id": "node/4551970291"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4560432089",
+        "amenity": "school",
+        "name": "قوتابخانةى شةوبؤ",
+        "name:ar": "مدرسة شوبو",
+        "name:en": "Shawbo school",
+        "name:ku": "قوتابخانةى شةوبؤ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.0550628,
+          36.1475919
+        ]
+      },
+      "id": "node/4560432089"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4563446590",
+        "amenity": "school",
+        "name": "قوتابخانەی ئایە",
+        "name:ku": "قوتابخانەی ئایە"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.1457925,
+          36.1982158
+        ]
+      },
+      "id": "node/4563446590"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4572710090",
+        "amenity": "school",
+        "name": "Ma7ad,hawlery new",
+        "name:ku": "Ma7ad,hawlery new"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.0755079,
+          36.2190761
+        ]
+      },
+      "id": "node/4572710090"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4573280803",
+        "addr:street": "100 M Road",
+        "amenity": "school",
+        "name": "زۆزان",
+        "name:ar": "زوزان",
+        "name:en": "Zozan",
+        "name:ku": "زۆزان",
+        "opening_hours": "Sa-Th 08:00-12:20"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.0282171,
+          36.160919
+        ]
+      },
+      "id": "node/4573280803"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4574748191",
+        "amenity": "school",
+        "name": "قوتابخانةى قةرةقوينلو",
+        "name:ar": "مدرسه قةرةقوينلو",
+        "name:en": "Qaraqoinlo School",
+        "name:ku": "قوتابخانەی قەرەقوينلو",
+        "name:tr": "Karakoyunlu okul"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.0387294,
+          36.215006
+        ]
+      },
+      "id": "node/4574748191"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4591218889",
+        "addr:street": "‏پەیمانگەی تەكنیكی پایتەخت-تایبەت  هه‌ولێر - گه‌ره‌كی به‌هاری نوی پشت نه‌خۆشخانه‌ی فریاكه‌وتنى رۆژئاوا",
+        "amenity": "school",
+        "email": "info@pitaxt.com",
+        "name": "معهد بايتخت التقني الخاص",
+        "name:ar": "معهد بايتخت التقني الخاص",
+        "name:en": "Paytaxt Technical institute",
+        "name:ku": "په يمانگاي ته كنيكي پايته ختي ناحكومي",
+        "opening_hours": "Sa-We 08:30-22:00",
+        "phone": "07508567744",
+        "website": "http://paitaxt.com/ku/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.9707661,
+          36.1592907
+        ]
+      },
+      "id": "node/4591218889"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4601970792",
+        "amenity": "school",
+        "name": "ناز",
+        "name:en": "‌NAZ school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.0048328,
+          36.2086223
+        ]
+      },
+      "id": "node/4601970792"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4603529789",
+        "amenity": "school",
+        "name": "پەیمانگای تەکنیکی ئایندە",
+        "name:ku": "پەیمانگای تەکنیکی ئایندە"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.1202435,
+          36.2038891
+        ]
+      },
+      "id": "node/4603529789"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4622594790",
+        "amenity": "school",
+        "name": "سەرهەڵدانی بنەڕەتی",
+        "name:ar": "مدرسة سرهلدان الاساسية",
+        "name:en": "Sarhaldan primary school",
+        "name:ku": "سەرهەڵدانی بنەڕەتی"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.0321938,
+          36.2101759
+        ]
+      },
+      "id": "node/4622594790"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4622594792",
+        "addr:postcode": "44001",
+        "addr:street": "Shaqlawa Road",
+        "amenity": "school",
+        "name": "ئامدەیی هەڵمەتی کوڕان",
+        "name:ar": "اعدادية هلمت للبنين",
+        "name:en": "Halmat High school for boys",
+        "name:ku": "ئامادەیی هەڵمەتی کوڕان",
+        "operator": "م/ كاردو مجيد ----- م/ ستار"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.0283997,
+          36.2073736
+        ]
+      },
+      "id": "node/4622594792"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4656615190",
+        "addr:city": "هەولێر",
+        "amenity": "school",
+        "name": "قوتابخانەی بنەڕەتی کارێزان"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.0832634,
+          36.1886831
+        ]
+      },
+      "id": "node/4656615190"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4663146891",
+        "amenity": "school",
+        "name": "قوتابخانەی شاهان",
+        "name:ar": "قوتابخانەی شاهان"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.1237783,
+          36.227325
+        ]
+      },
+      "id": "node/4663146891"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4680308292",
+        "amenity": "school",
+        "name": "قوتابخانەی بارزانی نەمر",
+        "name:en": "barzani namr high school",
+        "name:ku": "قوتابخانەی بارزانی نەمر"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.0067638,
+          36.1703383
+        ]
+      },
+      "id": "node/4680308292"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4689299795",
+        "amenity": "school",
+        "name": "قوتابخانەی شەهید حەسەن نەجاڕ",
+        "name:ku": "قوتابخانەی شەهید حەسەن نەجاڕ",
+        "operator": "مامۆستا جەبار",
+        "phone": "07503264699"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.141544,
+          36.2028355
+        ]
+      },
+      "id": "node/4689299795"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4692350090",
+        "addr:street": "Smko Akram Road",
+        "amenity": "school",
+        "email": "hemnm23@gmail.com",
+        "name": "قوتابخانەی ئامادەیی بینایی کچان",
+        "name:en": "Binay Preparatory School for girls",
+        "name:ku": "قوتابخانەی ئامادەیی بینایی کچان"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.1387403,
+          36.1938057
+        ]
+      },
+      "id": "node/4692350090"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4693158491",
+        "amenity": "school",
+        "name": "الرصافي الثانية",
+        "name:ar": "الرصافي الثانية",
+        "name:en": "Alrisafy2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.14629,
+          36.1761276
+        ]
+      },
+      "id": "node/4693158491"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4693167990",
+        "amenity": "school",
+        "name": "الرصافي الاولى",
+        "name:ar": "الرصافي الاولى",
+        "name:en": "Alrisafy 1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.122923,
+          36.2058334
+        ]
+      },
+      "id": "node/4693167990"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4694203792",
+        "amenity": "school",
+        "name": "Bahez Elementary School",
+        "name:ckb": "قوتابخانەی بنەڕەتی بەهێز"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.0471152,
+          36.2439758
+        ]
+      },
+      "id": "node/4694203792"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4700693193",
+        "amenity": "school",
+        "name": "دواناوەندی روباری تیکەلاو"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.0025369,
+          36.1211833
+        ]
+      },
+      "id": "node/4700693193"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4703893392",
+        "addr:street": "60 Meter road",
+        "amenity": "school",
+        "name": "Kamaran Elementary School",
+        "name:ar": "قوتابخانه ی کامران ی بنه ره تی تیکلاو",
+        "name:ckb": "قوتابخانه ی کامرانی بنەرەتی تێکەڵاو"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.0268789,
+          36.187359
+        ]
+      },
+      "id": "node/4703893392"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4705559191",
+        "addr:city": "هەولێر",
+        "addr:housenumber": "350",
+        "addr:postcode": "44001",
+        "addr:street": "شەقامی جەمال حەیدەری",
+        "amenity": "school",
+        "name": "قوتابخانەی ئامادەیی حەمرین",
+        "name:ckb": "قوتابخانەی ئامادەیی حەمرین",
+        "name:en": "Hamrin Secondary school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.0200671,
+          36.1653309
+        ]
+      },
+      "id": "node/4705559191"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4719650595",
+        "addr:city": "هەولێر",
+        "amenity": "school",
+        "name": "قوتابخانەی تێکەڵاوی تورکمان ئیل"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.0083614,
+          36.1683032
+        ]
+      },
+      "id": "node/4719650595"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4719682491",
+        "addr:city": "هەولێر",
+        "amenity": "school",
+        "name": "نەهری بنەڕەتی  تێکەلاو"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.0085883,
+          36.167923
+        ]
+      },
+      "id": "node/4719682491"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4719682492",
+        "addr:city": "هەولێر",
+        "amenity": "school",
+        "name": "قوتابخانەی بنەڕەتی تێکەڵاوی عیزەدین فەیزی"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.0082999,
+          36.1675225
+        ]
+      },
+      "id": "node/4719682492"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4722040490",
+        "amenity": "school",
+        "name": "قوتابخانەی زیوەر",
+        "name:en": "قوتابخانه ي زيوه ري كوران",
+        "name:ku": "قوتابخانەی زیوەر"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.9898811,
+          36.1735575
+        ]
+      },
+      "id": "node/4722040490"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4725085192",
+        "amenity": "school",
+        "name": "سێبەر",
+        "name:ku": "سێبەر"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.0718186,
+          36.2119749
+        ]
+      },
+      "id": "node/4725085192"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4753063222",
+        "amenity": "school",
+        "name": "قوتابخانەی زناری بنەڕەتی",
+        "name:en": "قوتابخانەی زناری بنەڕەتی"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.0453788,
+          36.1522608
+        ]
+      },
+      "id": "node/4753063222"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4753063223",
+        "addr:city": "هەولێر",
+        "amenity": "school",
+        "name": "قوتابخانەی بنەڕەتی یاوەر",
+        "name:ckb": "قوتابخانەی یاوەری بنەڕەتی"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.0452248,
+          36.1521994
+        ]
+      },
+      "id": "node/4753063223"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4753068728",
+        "addr:city": "هەولێر",
+        "amenity": "school",
+        "name": "قوتابخانەی بنەڕەتی سیوەیل",
+        "name:ckb": "قوتابخانەی بنەڕەتی سیوەیل"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.0482503,
+          36.1530824
+        ]
+      },
+      "id": "node/4753068728"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4762596836",
+        "amenity": "school",
+        "name": "Cambridge School erbil",
+        "name:ar": "Cambridge School erbil"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.9870942,
+          36.2038586
+        ]
+      },
+      "id": "node/4762596836"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4762972945",
+        "amenity": "school",
+        "name": "خه بات",
+        "name:ar": "سيوان",
+        "name:ku": "خه بات"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.0362508,
+          36.1820805
+        ]
+      },
+      "id": "node/4762972945"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4770612528",
+        "addr:street": "Molla Afandy",
+        "amenity": "school",
+        "name": "Gullan",
+        "name:en": "Gullan",
+        "name:ku": "Gullan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.0494895,
+          36.180118
+        ]
+      },
+      "id": "node/4770612528"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4770619224",
+        "addr:street": "hewallaa str",
+        "amenity": "school",
+        "name": "Dldar",
+        "name:en": "Dldar",
+        "name:ku": "Dldar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.056858,
+          36.1816812
+        ]
+      },
+      "id": "node/4770619224"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4771996123",
+        "amenity": "school",
+        "name": "تومارى ده نگده ران هه ڤالان",
+        "name:ar": "مركز تسجيل الناخبين هه ڤالان",
+        "name:ku": "تومارى ده نگده ران هه ڤالان"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.042568,
+          36.1844944
+        ]
+      },
+      "id": "node/4771996123"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4774136623",
+        "addr:city": "هەولێر",
+        "amenity": "school",
+        "name": "پەیمانگای گەشە"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.0801817,
+          36.1753099
+        ]
+      },
+      "id": "node/4774136623"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4790300621",
+        "amenity": "school",
+        "name": "پەیمانگەی هەولێری ناحکومی",
+        "name:ar": "پەیمانگەی هەولێری ناحکمی بۆ کۆمپیوتەر",
+        "name:en": "Hawlir privte komputer insitute",
+        "name:ku": "پەیمانگەی هەولێری ناحکومی"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.1256841,
+          36.2051804
+        ]
+      },
+      "id": "node/4790300621"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4793029223",
+        "amenity": "school",
+        "name:en": "Choueifat Dream City"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.9752893,
+          36.2078475
+        ]
+      },
+      "id": "node/4793029223"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4794565521",
+        "addr:city": "هەولێر",
+        "amenity": "school",
+        "name": "قوتابخانەی ڕۆشنایی بنەڕەتی"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.9851019,
+          36.1688038
+        ]
+      },
+      "id": "node/4794565521"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4812059922",
+        "addr:city": "أربيل",
+        "addr:street": "هيئة الأشغال العامة‎‎",
+        "amenity": "school",
+        "name": "ابتدائية امين زكي",
+        "name:ar": "ابتدائية امين زكي",
+        "name:en": "Amin Zaki Primary School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.9954987,
+          36.1872913
+        ]
+      },
+      "id": "node/4812059922"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4821544922",
+        "addr:postcode": "44001",
+        "addr:street": "100 M Road",
+        "amenity": "school",
+        "name": "shkaki kuran",
+        "name:ar": "مدرسة شكاك",
+        "name:en": "Shkak School",
+        "name:ku": "قوتابخانەی شکاک"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.0384787,
+          36.1965762
+        ]
+      },
+      "id": "node/4821544922"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4821545021",
+        "amenity": "school",
+        "name": "kurdayati",
+        "name:en": "Kurdayati School",
+        "name:ku": "قوتابخانەی کوردایەتی"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.0390729,
+          36.1947748
+        ]
+      },
+      "id": "node/4821545021"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4839978322",
+        "amenity": "school",
+        "name": "قوتابخانەی پێرس",
+        "name:en": "peris school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.0622814,
+          36.1532356
+        ]
+      },
+      "id": "node/4839978322"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4839978323",
+        "amenity": "school",
+        "name": "قوتابخانەی گەلاوێژ",
+        "name:ar": "مدرسة كلاويز",
+        "name:en": "galawezh school",
+        "name:ku": "قوتابخانەی گەلاوێژ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.0631603,
+          36.1566363
+        ]
+      },
+      "id": "node/4839978323"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4840420441",
+        "addr:city": "هەولێر",
+        "amenity": "school",
+        "name": "قوتابخانەی بنەڕەتی دیمەن"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.9821995,
+          36.1691879
+        ]
+      },
+      "id": "node/4840420441"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4859718227",
+        "amenity": "school",
+        "name": "مدرسة (شيلان) الإنكليزية الأساسية المختلطة",
+        "name:ar": "مدرسة (شيلان) الإنكليزية الأساسية المختلطة",
+        "name:en": "(Shilan) English Basic School",
+        "name:ku": "قوتابخانەی (شیلان)ی ئینگلیزی بنەڕەتی تێكەڵاو"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.0522718,
+          36.1978776
+        ]
+      },
+      "id": "node/4859718227"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4861996823",
+        "amenity": "school",
+        "name": "قوتابخانەی ئیشقی بنەڕەتی ناحكومی",
+        "name:en": "Ishik Secondary School",
+        "name:ku": "قوتابخانەی ئیشقی بنەڕەتی ناحكومی"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.0174949,
+          36.2119159
+        ]
+      },
+      "id": "node/4861996823"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4862005922",
+        "amenity": "school",
+        "name": "قوتابخانەی گردمەندیلی سەرەتایی تێكەلاو",
+        "name:ar": "مدرسة غردمنديل",
+        "name:ku": "قوتابخانەی گردمەندیلی سەرەتایی تێكەلاو"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.0188909,
+          36.2100069
+        ]
+      },
+      "id": "node/4862005922"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4862029621",
+        "amenity": "school",
+        "name": "قوتابخانەی ئانالیندی كچان",
+        "name:ku": "قوتابخانەی ئانالیندی كچان"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.0182806,
+          36.2104532
+        ]
+      },
+      "id": "node/4862029621"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4866767421",
+        "amenity": "school",
+        "name": "جامعة الموصل",
+        "name:ar": "جامعة الموصل"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.0179832,
+          36.1577311
+        ]
+      },
+      "id": "node/4866767421"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4869704922",
+        "addr:street": "Hawler-Koya road",
+        "amenity": "school",
+        "name": "paymangay gasha",
+        "name:ar": "paymangay gasha",
+        "name:en": "gasha Institute"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.062026,
+          36.2019133
+        ]
+      },
+      "id": "node/4869704922"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4880607528",
+        "amenity": "school",
+        "name:en": "Analind school for girls"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.0180023,
+          36.2101529
+        ]
+      },
+      "id": "node/4880607528"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4880607531",
+        "amenity": "school",
+        "contact:facebook": "https://www.facebook.com/Private.Zhyar/",
+        "name": "Zhyar Private High School",
+        "name:en": "Zhyar Private High School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.0112292,
+          36.216587
+        ]
+      },
+      "id": "node/4880607531"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4880607722",
+        "amenity": "school",
+        "name:en": "Zhyar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.015115,
+          36.2146632
+        ]
+      },
+      "id": "node/4880607722"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4894534424",
+        "amenity": "school",
+        "name": "الكلية فنون الجميلة",
+        "name:ar": "الكلية فنون الجميلة",
+        "name:en": "fine arts college",
+        "name:ku": "کۆلێژی ھونەرەجوانەکان"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.0033516,
+          36.1856557
+        ]
+      },
+      "id": "node/4894534424"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4920498724",
+        "addr:postcode": "44001",
+        "addr:street": "Barzany Namr 30M",
+        "amenity": "school",
+        "name": "قوتابخانەی ئۆغزخان",
+        "name:ar": "ئامادەيى عمادالدينى كوڕان / توركمانى",
+        "name:en": "Ough Han Temel Okulu",
+        "name:ku": "قوتابخانەی ئۆغزخان",
+        "name:tr": "Ough Han Temel Okulu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.0029191,
+          36.186042
+        ]
+      },
+      "id": "node/4920498724"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4940788421",
+        "amenity": "school",
+        "name": "Zanyari",
+        "name:ku": "Zanyari"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.0138409,
+          36.2186758
+        ]
+      },
+      "id": "node/4940788421"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4967721221",
+        "amenity": "school",
+        "name": "قوتابخانە",
+        "name:ku": "قوتابخانە"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.092211,
+          36.214698
+        ]
+      },
+      "id": "node/4967721221"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4988182121",
+        "amenity": "school",
+        "name": "قوتابخانەی بەرخودان",
+        "name:ar": "مدرسة برخودان",
+        "name:en": "Barxudan school",
+        "name:ku": "قوتاب خانەی بەرخودان"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.0013298,
+          36.1671165
+        ]
+      },
+      "id": "node/4988182121"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5008288021",
+        "amenity": "school",
+        "name": "Cambridge Int School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.9871719,
+          36.2039218
+        ]
+      },
+      "id": "node/5008288021"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5016390522",
+        "amenity": "school",
+        "name": "Amin Private School",
+        "name:ar": "مدرسة الأمين الأهلي"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.0906127,
+          36.2001735
+        ]
+      },
+      "id": "node/5016390522"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5022115021",
+        "amenity": "school",
+        "name": "كامبريدج كوين آن",
+        "name:ar": "كامبريدج كوين آن",
+        "name:en": "Cambridge Queen Anne"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.9870361,
+          36.2040567
+        ]
+      },
+      "id": "node/5022115021"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5029239722",
+        "addr:street": "Newroz Road",
+        "amenity": "school",
+        "email": "info@cihancollegeschool.org",
+        "name": "Cihan College School",
+        "name:ar": "مدرسة كلية جيهان",
+        "name:en": "Cihan College School",
+        "opening_hours": "Su-Th 08:00-22:00",
+        "operator": "Murad J. Yaseen",
+        "phone": "0750 331 1011",
+        "website": "http://www.cihancollegeschool.org/component/content/en.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.9678995,
+          36.1709553
+        ]
+      },
+      "id": "node/5029239722"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5029239725",
+        "amenity": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.0642701,
+          36.1992562
+        ]
+      },
+      "id": "node/5029239725"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5047921326",
+        "addr:city": "هەولێر",
+        "addr:street": "شەقامی 100 م",
+        "amenity": "school",
+        "name": "قوتابخانەی بنەڕەتی هێدی کوڕان",
+        "name:ckb": "قوتابخانەی بنەڕەتی هێدی کوڕان",
+        "name:en": "Hedi School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.9829464,
+          36.1574261
+        ]
+      },
+      "id": "node/5047921326"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5047935321",
+        "addr:street": "100 M Road",
+        "amenity": "school",
+        "name": "قوتابخانەی فاخیر مێرگەسۆری نێودەوڵەتی",
+        "name:en": "Fakhir Mergasori International School",
+        "name:ku": "قوتابخانەی فاخیر مێرگەسۆری نێودەوڵەتی"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.9636744,
+          36.1687291
+        ]
+      },
+      "id": "node/5047935321"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5055867721",
+        "amenity": "school",
+        "name": "مدسة تيشك بنات",
+        "name:ar": "مدرسة تيشك بنات",
+        "name:en": "tishk school",
+        "name:ku": "ئامادەیی تیشکی کچان"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.0750123,
+          36.2028311
+        ]
+      },
+      "id": "node/5055867721"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5059155548",
+        "addr:city": "هەولێر",
+        "amenity": "school",
+        "name": "قوتابخانەی دەریای بنەڕەتی تێکەڵاو"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.0144469,
+          36.1419504
+        ]
+      },
+      "id": "node/5059155548"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5059976455",
+        "amenity": "school",
+        "name": "Omar Rahman School",
+        "name:ckb": "قوتابخانەی عمر رحمانی کوران"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.0243135,
+          36.184575
+        ]
+      },
+      "id": "node/5059976455"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5067357921",
+        "amenity": "school",
+        "name": "روزاکی نمونه یی",
+        "name:en": "Rozak",
+        "name:ku": "روزاکی نمونه یی"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.0354431,
+          36.2050091
+        ]
+      },
+      "id": "node/5067357921"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5067704221",
+        "amenity": "school",
+        "name": "ئامادەی شاوێسی کوران",
+        "name:ku": "ئامادەی شاوێسی کوران"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.0983825,
+          36.246113
+        ]
+      },
+      "id": "node/5067704221"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5083615922",
+        "addr:street": "Holy Zard",
+        "amenity": "school",
+        "email": "info@allaykurdistan.com",
+        "name": "قوتابخانەی ئاڵای کوردستان",
+        "name:ckb": "قوتابخانەی ئاڵای کوردستان",
+        "name:en": "Allay Kurdistan school",
+        "opening_hours": "Sa-Th 08:00-14:00",
+        "phone": "00964 750 314 8064",
+        "website": "http://www.allaykurdistan.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.0281337,
+          36.1953546
+        ]
+      },
+      "id": "node/5083615922"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5101674922",
+        "amenity": "school",
+        "name": "مدرسة رونا",
+        "name:ar": "مدرسة رونا",
+        "name:en": "Rona School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.9649339,
+          36.1935521
+        ]
+      },
+      "id": "node/5101674922"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5106916326",
+        "amenity": "school",
+        "name": "قوتابخانەى بنەرەتى",
+        "name:en": "primary school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.9608829,
+          36.2008733
+        ]
+      },
+      "id": "node/5106916326"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5118013121",
+        "addr:street": "100 M Road",
+        "amenity": "school",
+        "name": "معهد الازهر فی اربیل",
+        "name:en": "Al azhar instuty in erbil"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.0390373,
+          36.1767162
+        ]
+      },
+      "id": "node/5118013121"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5118013123",
+        "amenity": "school",
+        "name": "پەیمانگای ئەزهەر لە هەولێر",
+        "name:ar": "معهد الازهر فی اربیل",
+        "name:ku": "پەیمانگای ئەزهەر لە هەولێر"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.0391035,
+          36.1767135
+        ]
+      },
+      "id": "node/5118013123"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5119298023",
+        "addr:street": "100 M Road",
+        "amenity": "school",
+        "name": "ئامادەیی شەهید فاخیر مێرگەسۆری",
+        "name:ckb": "ئامادەیی شەهید فاخیر مێرگەسۆری",
+        "name:en": "shahid faxer mergasore high school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.9643308,
+          36.1695729
+        ]
+      },
+      "id": "node/5119298023"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5150027623",
+        "addr:street": "شەقامی کەرکووک",
+        "amenity": "school",
+        "name": "قوتابخانەی شكۆدار",
+        "name:en": "Shkodar School",
+        "opening_hours": "Sa-Th 07:25-12:20"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.0169582,
+          36.1741942
+        ]
+      },
+      "id": "node/5150027623"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5155279921",
+        "amenity": "school",
+        "name:en": "Hawler High school for girls"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.0131547,
+          36.1751832
+        ]
+      },
+      "id": "node/5155279921"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5157863922",
+        "amenity": "school",
+        "name": "قوتابخانه ى شه هبد كؤجه ر"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.9943539,
+          36.2066054
+        ]
+      },
+      "id": "node/5157863922"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5157867225",
+        "addr:city": "هەولێر",
+        "addr:country": "IQ",
+        "addr:postcode": "44001",
+        "addr:street": "شەقامی زانکۆ",
+        "amenity": "school",
+        "facebook": "https://www.facebook.com/savaprivateschool/",
+        "name": "قوتابخانەی ساڤای تایبەت",
+        "name:ckb": "قوتابخانەی ساڤای تایبەت",
+        "name:en": "Sava Private School",
+        "phone": "00964 750 495 7418"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.040286,
+          36.1521345
+        ]
+      },
+      "id": "node/5157867225"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5168438321",
+        "amenity": "school",
+        "name": "قوتابخانەی ئامادەیی حەسارۆک"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.0726711,
+          36.1914222
+        ]
+      },
+      "id": "node/5168438321"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5168878521",
+        "amenity": "school",
+        "name": "مكتب زانكو",
+        "name:en": "Maktab zanko"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.0310739,
+          36.1548605
+        ]
+      },
+      "id": "node/5168878521"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5178192923",
+        "amenity": "school",
+        "name": "کۆڵێژی یاسا-زانکۆی ئیشک",
+        "name:ar": "كلية القانون-جامعة ايشك",
+        "name:en": "Law Faculty-ISHIK University",
+        "name:ku": "کۆڵێژی یاسا-زانکۆی ئیشک"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.9578972,
+          36.1675068
+        ]
+      },
+      "id": "node/5178192923"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5195559721",
+        "amenity": "school",
+        "name:en": "Queen Ann Cambrigde 2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.0950083,
+          36.2513028
+        ]
+      },
+      "id": "node/5195559721"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5206507022",
+        "amenity": "school",
+        "name:en": "Qadam Kher"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.0239467,
+          36.1734896
+        ]
+      },
+      "id": "node/5206507022"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5233443921",
+        "addr:city": "هەولێر",
+        "addr:street": "شەقامی ڕووناکی",
+        "amenity": "school",
+        "name": "قوتابخانەی قەندیلی بنەڕەتی کوڕان"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.0238728,
+          36.1699874
+        ]
+      },
+      "id": "node/5233443921"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5245313024",
+        "amenity": "school",
+        "name": "قوتابخانەی وان & ڕێواس"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.0198591,
+          36.1311323
+        ]
+      },
+      "id": "node/5245313024"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5260639423",
+        "amenity": "school",
+        "name": "بەهاری نوێ",
+        "name:en": "Bahary nwe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.9755246,
+          36.1472522
+        ]
+      },
+      "id": "node/5260639423"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5275241337",
+        "amenity": "school",
+        "name": "قوتابخانەی سەعادەت"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.0602983,
+          36.1524289
+        ]
+      },
+      "id": "node/5275241337"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5299517923",
+        "addr:postcode": "44001",
+        "addr:street": "60 Meter road",
+        "amenity": "school",
+        "name": "شهید بهرام",
+        "name:ar": "شهید بهرام",
+        "name:en": "Shahid Bahram",
+        "name:ku": "شەهید بەهرام",
+        "opening_hours": "Sa-Th 08:00-16:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.9984798,
+          36.1993986
+        ]
+      },
+      "id": "node/5299517923"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5317103724",
+        "addr:postcode": "44001",
+        "addr:street": "ألبان",
+        "amenity": "school",
+        "name": "قوتابخانەی نازنازی بنەرەتی",
+        "name:en": "NazNaz School",
+        "website": "http://Www.snapchat.com/add/rezhna_x"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.9932849,
+          36.1737058
+        ]
+      },
+      "id": "node/5317103724"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5317123022",
+        "addr:postcode": "44001",
+        "addr:street": "ألبان",
+        "amenity": "school",
+        "name": "قوتابخانەی هەرێمی بنەرەتی تێڪەڵاو",
+        "name:en": "Harem School",
+        "opening_hours": "Su-Th 07:30-16:45",
+        "website": "http://Www.snapchat.com/add/rezhna_x"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.9944476,
+          36.1749435
+        ]
+      },
+      "id": "node/5317123022"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5333130131",
+        "amenity": "school",
+        "name": "قوتابخانەی بنەڕەتی کەسنەزان",
+        "name:en": "Kasnazan Elementary School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.1371124,
+          36.208078
+        ]
+      },
+      "id": "node/5333130131"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5336582621",
+        "amenity": "school",
+        "name": "قوتابخانەی دڵۆپەی بنەڕەتی تێکەڵاو",
+        "name:en": "Dlopa Elementary school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.1314819,
+          36.2004761
+        ]
+      },
+      "id": "node/5336582621"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5348455421",
+        "addr:city": "هەولێر",
+        "addr:street": "332-200",
+        "amenity": "school",
+        "name": "قوتابخانەی نێودەوڵەتی سەرواران (بە بەڕێوەبەرایەتی سابیس)",
+        "name:ar": "قوتابخانه ى سروران",
+        "name:en": "Sarwaran International School (Managed by Sabis)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.0576003,
+          36.1866254
+        ]
+      },
+      "id": "node/5348455421"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5352307224",
+        "amenity": "school",
+        "name": "قوتابخانةى ديدةم",
+        "name:en": "Dedam school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.0348572,
+          36.1704778
+        ]
+      },
+      "id": "node/5352307224"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5380672422",
+        "amenity": "school",
+        "name": "Zanst"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.0592697,
+          36.1653105
+        ]
+      },
+      "id": "node/5380672422"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5381407922",
+        "amenity": "school",
+        "name": "پارتوك",
+        "name:en": "Partok"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.0491812,
+          36.1935996
+        ]
+      },
+      "id": "node/5381407922"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5381407923",
+        "addr:street": "شەقامی جەمال حەیدەری",
+        "amenity": "school",
+        "name": "حمرين",
+        "name:en": "Hamreen High School",
+        "opening_hours": "Su-Th 08:30-13:15"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.019001,
+          36.1651477
+        ]
+      },
+      "id": "node/5381407923"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5428519221",
+        "amenity": "school",
+        "name": "قوتابخانەی خانەقین",
+        "name:en": "Khanaqin Elementary School",
+        "name:ku": "قوتابخانەی بنەڕەتی خانەقین"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.0112359,
+          36.2096348
+        ]
+      },
+      "id": "node/5428519221"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5471633723",
+        "amenity": "school",
+        "name:en": "Younis primarily school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.0164073,
+          36.1723716
+        ]
+      },
+      "id": "node/5471633723"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5479745923",
+        "amenity": "school",
+        "name": "قوتابخانەی کۆدۆ",
+        "name:ar": "قوتابخانەی كۆدۆ",
+        "name:en": "kodo school",
+        "name:ku": "قوتابخانەی كۆدۆ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.0389124,
+          36.1966118
+        ]
+      },
+      "id": "node/5479745923"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5481118022",
+        "addr:city": "هەولێر",
+        "amenity": "school",
+        "name": "قوتابخانەی بنەڕەتی بابەگوڕگوڕ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.9772059,
+          36.1711069
+        ]
+      },
+      "id": "node/5481118022"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5485115022",
+        "amenity": "school",
+        "name": "مدرسه باله الاهليه ( الدراسه الانكليزيه)",
+        "name:en": "Balla Private School ( English Study)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.0163746,
+          36.1503897
+        ]
+      },
+      "id": "node/5485115022"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5511108722",
+        "amenity": "school",
+        "name": "Amadayi Kurdstani Aindae Ahli"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.0295758,
+          36.1825505
+        ]
+      },
+      "id": "node/5511108722"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5515764022",
+        "amenity": "school",
+        "name": "مدرسة متين اساسية",
+        "name:en": "Mateen basic school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.0702756,
+          36.1686237
+        ]
+      },
+      "id": "node/5515764022"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5515764030",
+        "amenity": "school",
+        "name": "قوتابخانەی ڤان بۆ خوێندنی عەرەبی"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.9551246,
+          36.1170899
+        ]
+      },
+      "id": "node/5515764030"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5517955824",
+        "amenity": "school",
+        "name": "ث",
+        "name:ar": "ثانوية زهراء للبنات دراسة عربية",
+        "name:en": "Zahra secondary school -Arabic study"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.0141937,
+          36.1722539
+        ]
+      },
+      "id": "node/5517955824"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5517955923",
+        "addr:street": "طريق كركوك",
+        "amenity": "school",
+        "name": "مدرسة بهرا ابتدائية دراسة عربية",
+        "name:en": "Bahra Basic School-Arabic study"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.0142091,
+          36.1721976
+        ]
+      },
+      "id": "node/5517955923"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5518575824",
+        "amenity": "school",
+        "name": "قوتابخانەی ڕووناکبیری و ڕۆشنبیری"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.0319395,
+          36.1304489
+        ]
+      },
+      "id": "node/5518575824"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5518575826",
+        "addr:housenumber": "49",
+        "addr:postcode": "44017",
+        "addr:street": "شەقامی رۆشنبیری",
+        "amenity": "school",
+        "name": "قوتابخانەی کۆژین & شلێر & بروسکە"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.0404425,
+          36.1319623
+        ]
+      },
+      "id": "node/5518575826"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5522072221",
+        "addr:street": "Car Shows Road شەقامی پێشانگاکانی ئۆتۆمبێل",
+        "amenity": "school",
+        "name": "مدرسة ١٤ تموز",
+        "name:en": "14 tammuz school",
+        "name:ku": "قوتابخانەی ١٤ی تەموز"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.0016686,
+          36.1633731
+        ]
+      },
+      "id": "node/5522072221"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5523529322",
+        "amenity": "school",
+        "name": "المديرية العامة للتخطيط التربوي"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.9950054,
+          36.1898027
+        ]
+      },
+      "id": "node/5523529322"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5523545121",
+        "amenity": "school",
+        "name": "المديرية العامة للدراسة غير النظامية دراسة سريعة و محو امية"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.9946888,
+          36.1900921
+        ]
+      },
+      "id": "node/5523545121"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5540885821",
+        "amenity": "school",
+        "name": "فرمان بران مدرسه لانه اهليه مخطلطه منهج بغداد",
+        "name:ar": "‏مدرسة لأن الاهلية المختلطة منهج بغداد",
+        "opening_hours": "Su-Th 08:00-13:00",
+        "phone": "07502002797"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.0492772,
+          36.1456507
+        ]
+      },
+      "id": "node/5540885821"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5544657726",
+        "amenity": "school",
+        "name:en": "Teacher Training Department"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.018749,
+          36.1958202
+        ]
+      },
+      "id": "node/5544657726"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5552153423",
+        "addr:street": "dar u asn",
+        "amenity": "school",
+        "name": "قوتابخانەی سۆما",
+        "name:en": "Soma Elementary School",
+        "name:ku": "قوتابخانەی سوۆمای بنەڕەتی"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.0231666,
+          36.2118854
+        ]
+      },
+      "id": "node/5552153423"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5566903279",
+        "addr:city": "هەولێر",
+        "addr:postcode": "44001",
+        "amenity": "school",
+        "name": "قوتابخانەی ئامادەیی کوردستانی گەورەی ناحکومی",
+        "name:ckb": "قوتابخانەی ئامادەیی کوردستانی گەورەی ناحکومی"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.058826,
+          36.1665044
+        ]
+      },
+      "id": "node/5566903279"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5580936021",
+        "amenity": "school",
+        "name": "مدرسة خجه باوه",
+        "name:en": "Khaja bawa school",
+        "name:ku": "قوتابخانەی خەجەباوە"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.034863,
+          36.162603
+        ]
+      },
+      "id": "node/5580936021"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5580936121",
+        "amenity": "school",
+        "name": "مدرسة ژيلوان الاساسية",
+        "name:en": "Zhilwan school",
+        "name:ku": "قوتابخانەی ژیلوان ی بنەڕەتی"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.0563128,
+          36.2018059
+        ]
+      },
+      "id": "node/5580936121"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5587092321",
+        "addr:city": "هەولێر",
+        "addr:postcode": "44001",
+        "amenity": "school",
+        "denomination": "sunni",
+        "name": "قوتابخانە و حوجرەی مامۆستا عەبدولکەریمی مودەڕیس",
+        "religion": "muslim"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.0285216,
+          36.1678926
+        ]
+      },
+      "id": "node/5587092321"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5597520124",
+        "amenity": "school",
+        "name": "ععدادیەی ئیشقی کوران",
+        "name:ar": "ئيشق اعدادية",
+        "name:en": "Ishik secondary school",
+        "name:ku": "ععدادیەی ئیشقی کوران"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.0156112,
+          36.212101
+        ]
+      },
+      "id": "node/5597520124"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5607395622",
+        "amenity": "school",
+        "name": "قوتابخانەی بنەڕەتیی تێکەڵاوی ڕەوان"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.0966434,
+          36.2116022
+        ]
+      },
+      "id": "node/5607395622"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5607459518",
+        "addr:city": "أربيل",
+        "addr:country": "IQ",
+        "amenity": "school",
+        "name": "ثانوية سيوان للبنات"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.0346554,
+          36.2143471
+        ]
+      },
+      "id": "node/5607459518"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5607933622",
+        "amenity": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.9965687,
+          36.2265266
+        ]
+      },
+      "id": "node/5607933622"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5669627039",
+        "amenity": "school",
+        "name": "السركش",
+        "name:en": "sarkash school",
+        "name:ku": "قوتابخانەی سەركەش"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.0386985,
+          36.1595543
+        ]
+      },
+      "id": "node/5669627039"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5706021523",
+        "addr:street": "شەقامی کەرکووک",
+        "amenity": "school",
+        "name": "كلية (قەڵا) للموهبين",
+        "name:ar": "كلية قەڵا للموهبين",
+        "name:en": "Qalla College for Gifted Students",
+        "name:ku": "كولێژی قەڵا بۆ بەهرەداران",
+        "opening_hours": "Su-Th 08:00-13:30"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.0164273,
+          36.1536057
+        ]
+      },
+      "id": "node/5706021523"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5714828882",
+        "amenity": "school",
+        "name": "Runkay shigh school for girls"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.0235087,
+          36.1666525
+        ]
+      },
+      "id": "node/5714828882"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5739983621",
+        "amenity": "school",
+        "name": "قوتابخانەی گەردوونی بنەڕەتی تێکەڵاو",
+        "name:en": "gardwn school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.0404396,
+          36.147551
+        ]
+      },
+      "id": "node/5739983621"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5747309721",
+        "addr:city": "هەولێر",
+        "amenity": "school",
+        "name": "قوتابخانەی ژیاری ناحکومی"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.0795462,
+          36.1745313
+        ]
+      },
+      "id": "node/5747309721"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5753273520",
+        "amenity": "school",
+        "name": "Zindi Primary School for Grils",
+        "name:ar": "مدرسة زندي الابتدائية للبنات",
+        "name:ckb": "قوتابخانەی زەندی بنەڕەتی کچان"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.0546456,
+          36.1696594
+        ]
+      },
+      "id": "node/5753273520"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5765992656",
+        "amenity": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.0631035,
+          36.1894127
+        ]
+      },
+      "id": "node/5765992656"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5808358853",
+        "amenity": "school",
+        "name:en": "Media Preparatory School for Girls"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.9987353,
+          36.1910253
+        ]
+      },
+      "id": "node/5808358853"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5816562653",
+        "addr:street": "100 M Road",
+        "amenity": "school",
+        "name": "قوتابخانەی ئالای کچان",
+        "name:en": "alla school",
+        "name:ku": "قوتابخانەی ئالای کچان"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.0387881,
+          36.1792371
+        ]
+      },
+      "id": "node/5816562653"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5847023785",
+        "amenity": "school",
+        "name": "قوتابخانە"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.0448441,
+          36.1770266
+        ]
+      },
+      "id": "node/5847023785"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5876624085",
+        "addr:street": "طريق بحركة القديم",
+        "amenity": "school",
+        "email": "hiwaelc@gmail.com",
+        "name:en": "Hiwa Center",
+        "opening_hours": "Su-Mo, We 09:00-20:00",
+        "phone": "009647504709550",
+        "website": "http://www.hiwa-center.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.0096761,
+          36.2077375
+        ]
+      },
+      "id": "node/5876624085"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5903123485",
+        "addr:street": "Gulan Road",
+        "amenity": "school",
+        "name": "قوتابخانەی باڵای ئینگلیزی ۲",
+        "name:ar": "المدرسة بالا ئنکليزي ۲",
+        "name:en": "Balla English School 2",
+        "name:ku": "قوتابخانەی باڵای ئینگلیزی ۲"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.9987199,
+          36.2167865
+        ]
+      },
+      "id": "node/5903123485"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5918083193",
+        "amenity": "school",
+        "name": "پەیمانگەی نۆبل    h.akoy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.0847445,
+          36.2594337
+        ]
+      },
+      "id": "node/5918083193"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5933493785",
+        "amenity": "school",
+        "name": "قوتابخانەی بنەڕەتی ئالتون ستی",
+        "name:en": "Altun City Elementary School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.0916956,
+          36.1539564
+        ]
+      },
+      "id": "node/5933493785"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5933493885",
+        "amenity": "school",
+        "name:en": "Cambridge International School-Hawler"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.0918467,
+          36.1546788
+        ]
+      },
+      "id": "node/5933493885"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5933728885",
+        "amenity": "school",
+        "name": "قوتابخانەی کوین ئانی نێودەوڵەتی هەولێر",
+        "name:en": "Queen Ann International School-Hawler"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.0609391,
+          36.1470397
+        ]
+      },
+      "id": "node/5933728885"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5933728985",
+        "amenity": "school",
+        "name": "قوتابخانەی کلێڤەری تایبەت",
+        "name:en": "Clever Private School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.0612615,
+          36.1467689
+        ]
+      },
+      "id": "node/5933728985"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5963249185",
+        "amenity": "school",
+        "name:en": "Ayubia School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.009256,
+          36.194449
+        ]
+      },
+      "id": "node/5963249185"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5963506289",
+        "addr:street": "Arbil-Koya Road",
+        "amenity": "school",
+        "name": "MAD INSTITUE",
+        "name:ku": "paymangay mad"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.1238549,
+          36.2053478
+        ]
+      },
+      "id": "node/5963506289"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5964768486",
+        "amenity": "school",
+        "name:en": "Snobar Elementary School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.00819,
+          36.19449
+        ]
+      },
+      "id": "node/5964768486"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5966232595",
+        "amenity": "school",
+        "name:en": "Cambridge ESOL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.008779,
+          36.1775978
+        ]
+      },
+      "id": "node/5966232595"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5981654288",
+        "amenity": "school",
+        "name:en": "Kovan High School for Boys"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.02992,
+          36.21617
+        ]
+      },
+      "id": "node/5981654288"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5981675895",
+        "amenity": "school",
+        "name:en": "Jari Elementary School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.01501,
+          36.18174
+        ]
+      },
+      "id": "node/5981675895"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5981677985",
+        "amenity": "school",
+        "name:en": "11 Aylul School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.02325,
+          36.21026
+        ]
+      },
+      "id": "node/5981677985"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5982647886",
+        "amenity": "school",
+        "name": "أعدادية كوردايتى للبنين",
+        "name:en": "Preparatory Kurdayati School",
+        "name:ku": "ئامادەیی كوردایەتی كوڕان"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.0393123,
+          36.1946026
+        ]
+      },
+      "id": "node/5982647886"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5993019787",
+        "amenity": "school",
+        "name": "مدرسة هيمت",
+        "name:en": "Himmat school",
+        "name:ku": "قوتابخانەی هیممەت"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.0563491,
+          36.226722
+        ]
+      },
+      "id": "node/5993019787"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5996533551",
+        "addr:city": "هەولێر",
+        "amenity": "school",
+        "name": "Rozhiary Hawreyi  School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.0169004,
+          36.1485779
+        ]
+      },
+      "id": "node/5996533551"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6006882686",
+        "amenity": "school",
+        "name": "أعدادية ئالا للبنات",
+        "name:ku": "دواناوەندی ئاڵای کچان"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.0388114,
+          36.1793323
+        ]
+      },
+      "id": "node/6006882686"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6006882687",
+        "amenity": "school",
+        "name": "مدرسة نالي المخلطة",
+        "name:ku": "قوتابخانەی ناڵی بنەڕەتی تێکەڵاو"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.0388709,
+          36.1797083
+        ]
+      },
+      "id": "node/6006882687"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6008487587",
+        "addr:postcode": "44001.",
+        "addr:street": "شەقامی (100) مەتری، نزیك بەرامبەر شارەوانی سێ.",
+        "amenity": "school",
+        "name": "قوتابخانەی بناری بنەڕەتی تێكەڵاو",
+        "name:en": "Bnar Basic School",
+        "opening_hours": "Sa-Th 08:00-16:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.0396003,
+          36.2150031
+        ]
+      },
+      "id": "node/6008487587"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6009170386",
+        "amenity": "school",
+        "name:en": "Shekhi Choly School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.0032879,
+          36.188041
+        ]
+      },
+      "id": "node/6009170386"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6022883189",
+        "amenity": "school",
+        "name:en": "Nawroz School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.03551,
+          36.21382
+        ]
+      },
+      "id": "node/6022883189"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6058654086",
+        "amenity": "school",
+        "name": "بةيمانگاي پيگةياندني ماموستايان"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.0499392,
+          36.1667663
+        ]
+      },
+      "id": "node/6058654086"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6098751688",
+        "amenity": "school",
+        "name:en": "Renas High School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.0764002,
+          36.1094987
+        ]
+      },
+      "id": "node/6098751688"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6105271487",
+        "amenity": "school",
+        "name": "ئامادەیی گەشەی نموونەیی"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.9663034,
+          36.1628371
+        ]
+      },
+      "id": "node/6105271487"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6105271488",
+        "addr:street": "شەقامی پێشەوا قازی",
+        "amenity": "school",
+        "name": "قوتابخانەی شیاوی تایبەت",
+        "name:en": "shiaw school",
+        "opening_hours": "24/7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.044194,
+          36.1883556
+        ]
+      },
+      "id": "node/6105271488"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6128773887",
+        "amenity": "school",
+        "name": "Shoxi kchan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.0236538,
+          36.1948548
+        ]
+      },
+      "id": "node/6128773887"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6149953885",
+        "amenity": "school",
+        "name": "قوتابخانەی بنەڕەتی حەسارۆست",
+        "name:en": "Hasarost Elementary School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.008221,
+          36.209985
+        ]
+      },
+      "id": "node/6149953885"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6179885685",
+        "amenity": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.0568308,
+          36.1816665
+        ]
+      },
+      "id": "node/6179885685"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6194771585",
+        "amenity": "school",
+        "name:en": "Shakr Fatah Elementary School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.99,
+          36.1706
+        ]
+      },
+      "id": "node/6194771585"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6216270385",
+        "amenity": "school",
+        "name": "ماكوس كورس",
+        "name:en": "macos org",
+        "name:ku": "ڕێكخراوى ماكۆس",
+        "phone": "07509394441"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.0225065,
+          36.1777033
+        ]
+      },
+      "id": "node/6216270385"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6273789288",
+        "amenity": "school",
+        "name": "ڕووبار",
+        "name:en": "Rwbar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.9687128,
+          36.1681002
+        ]
+      },
+      "id": "node/6273789288"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6289954606",
+        "addr:street": "Pirzin-Ainkawa Road",
+        "amenity": "school",
+        "name": "Azmar School",
+        "name:en": "Azmar School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.0775467,
+          36.2672156
+        ]
+      },
+      "id": "node/6289954606"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6290643185",
+        "addr:housenumber": "100 metres",
+        "addr:street": "شەقامی فڕۆکەخانە",
+        "amenity": "school",
+        "name": "مدرسة كامبريج الدولي-كابتل ستی",
+        "name:ar": "مدرسة كامبريدج الدولي- كابتل ستي",
+        "name:en": "Cambridge International School-Capital City",
+        "name:ku": "قوتابخانەی کامبریدجی نێودەولەتی- کاپیتەل سیتی"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.9651806,
+          36.2059167
+        ]
+      },
+      "id": "node/6290643185"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6290643285",
+        "addr:street": "طريق 100 متر",
+        "amenity": "school",
+        "name": "مدرسة كامبريج الدولي- كابيتل سيتي",
+        "name:en": "Cambridge International School- Capital City",
+        "name:ku": "قوتابخانەی کامبریدجی نێودەولەتی- کاپیتەل سیتی"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.9652549,
+          36.2058555
+        ]
+      },
+      "id": "node/6290643285"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6290740085",
+        "amenity": "school",
+        "name": "Hizha",
+        "name:ku": "هێژا"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.0498193,
+          36.2031459
+        ]
+      },
+      "id": "node/6290740085"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6299453485",
+        "amenity": "school",
+        "name": "مدرسە سافە",
+        "name:ar": "مدرسە سافە الاساسیە",
+        "name:en": "Sava school",
+        "name:fa": "مدرسە ساڤە",
+        "name:ku": "قوتابخانەی ساڤەی بنەڕەتی تێکەڵاو"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.1302486,
+          36.1566233
+        ]
+      },
+      "id": "node/6299453485"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6301735335",
+        "amenity": "school",
+        "name": "Shaida Primary School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.0401427,
+          36.1481698
+        ]
+      },
+      "id": "node/6301735335"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6312973092",
+        "amenity": "school",
+        "name": "مدرسە هەفالان الاساسی",
+        "name:ar": "مدرسە هفالان",
+        "name:en": "Havalan basic school",
+        "name:ku": "قوتابخانەی هەڤاڵانی بنەڕەتی بنەڕەتی"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.0455935,
+          36.1922154
+        ]
+      },
+      "id": "node/6312973092"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6313026586",
+        "amenity": "school",
+        "name:en": "Amez basic school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.0614001,
+          36.1197423
+        ]
+      },
+      "id": "node/6313026586"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6313031285",
+        "amenity": "school",
+        "name": "قوتابخانەی هەڤاڵانی هاوڕێی تێکەڵاو",
+        "name:en": "Havalan basic shool"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.0449498,
+          36.1920621
+        ]
+      },
+      "id": "node/6313031285"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6318596686",
+        "amenity": "school",
+        "name": "وەفایی",
+        "name:en": "wafayi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.0285187,
+          36.1641562
+        ]
+      },
+      "id": "node/6318596686"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6318617085",
+        "amenity": "school",
+        "name": "إعدادية محمد ماجدي",
+        "name:en": "Mohamad Mahdi school",
+        "name:ku": "ئامادەیی محمد ماجدی"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.0405669,
+          36.1534072
+        ]
+      },
+      "id": "node/6318617085"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6365994585",
+        "amenity": "school",
+        "name": "المدرسة الفنلندية (FISK)",
+        "name:en": "FISK( Finnish international school)",
+        "name:ku": "قوتابخاني باخچةي فيلنةدي"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.9979557,
+          36.2164088
+        ]
+      },
+      "id": "node/6365994585"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6398428385",
+        "amenity": "school",
+        "name": "ريجين للمهارات الطفل"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.0799473,
+          36.2457272
+        ]
+      },
+      "id": "node/6398428385"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6409953186",
+        "amenity": "school",
+        "name": "خوێندنگای هەکاری",
+        "name:en": "Hakari School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.0558884,
+          36.2265897
+        ]
+      },
+      "id": "node/6409953186"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6418528243",
+        "amenity": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.0029444,
+          36.1711704
+        ]
+      },
+      "id": "node/6418528243"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6418528244",
+        "amenity": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.003226,
+          36.1716835
+        ]
+      },
+      "id": "node/6418528244"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6418528245",
+        "amenity": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.0033923,
+          36.1720949
+        ]
+      },
+      "id": "node/6418528245"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6441043985",
+        "amenity": "school",
+        "name": "دەزگاى ڕوناكى"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.0390529,
+          36.1847791
+        ]
+      },
+      "id": "node/6441043985"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6461623993",
+        "amenity": "school",
+        "name": "پێشکەوتن",
+        "name:en": "Peshkawtn"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.0135991,
+          36.20393
+        ]
+      },
+      "id": "node/6461623993"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6461634586",
+        "amenity": "school",
+        "name": "شێخ محمود",
+        "name:en": "Shex mahmood"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.0136652,
+          36.204161
+        ]
+      },
+      "id": "node/6461634586"
+    }
+  ]
+}

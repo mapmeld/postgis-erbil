@@ -10,13 +10,14 @@ geospatial queries in PostGIS.
 As the db admin user, import GeoJSON and other files using ogr2ogr (part of GDAL install). Here's how we imported a GeoJSON file into a "erb_districts" table:
 
 ```bash
-ogr2ogr -append -f "PostgreSQL" PG:"dbname=jserb" erb-districts.geojson
+ogr2ogr -overwrite -f "PostgreSQL" PG:"dbname=jserb" -nln erb-districts districts.geojson
+ogr2ogr -overwrite -f "PostgreSQL" PG:"dbname=jserb" -nln erb-districts districts.geojson
 ```
 
-Here's how an ESRI Shapefile format can be imported (after unzipping)
+Here's how an ESRI Shapefile format can be imported (first extract from any .ZIP / .RAR)
 
 ```bash
-ogr2ogr -append -f "ESRI Shapefile" PG:"dbname=jserb" wards.shp -nln wards
+ogr2ogr -overwrite -f "ESRI Shapefile" PG:"dbname=jserb" wards.shp -nln wards
 ```
 
 Tips for importing other formats of geodata:
@@ -38,15 +39,15 @@ There was a shapefile option, but I'd like to share how I would import this from
 
 ```bash
 pip install csvkit
-csvsql --db postgresql:///jserb step-4/health.csv --insert
+csvsql --db postgresql:///jserb --tables health healthsites.csv --insert
 
 # for remote db
-csvsql --db postgresql://user:pass@hostIP/jserb health.csv --insert
+csvsql --db postgresql://user:pass@hostIP/jserb --tables health healthsites.csv --insert
 ```
 
 ```sql
 ALTER TABLE health ADD COLUMN point GEOGRAPHY;
-UPDATE health SET point = ST_MakePoint(longitude, latitude);
+UPDATE health SET point = ST_MakePoint(x, y);
 ```
 
 We can use a JOIN with a spatial component here:

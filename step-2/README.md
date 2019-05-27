@@ -22,18 +22,26 @@ Iraq governorates https://esoc.princeton.edu/files/administrative-boundaries-gov
 Iraq districts https://esoc.princeton.edu/files/administrative-boundaries-districts
 District Level Ethnic https://esoc.princeton.edu/files/ethnicity-study-district-level-ethnic-populations
 
-**MS.gov**
-
-Alternate  KU bounds (3 governorates) https://opendata.gis.ms.gov/items/f9062cae38d148419451318699c8a959?geometry=37.267%2C34.249%2C53.087%2C37.366
-Salahaddin Uni https://opendata.gis.ms.gov/items/c07485932a434a35a64153ce79d5ab2d?geometry=44.012%2C36.14%2C44.043%2C36.146
-
 **GIS-for-you**
 
 Source of Erbil parcels: http://gis-for-you.blogspot.com/2017/11/download-shapefile-building-207200.html
 
+**HumData**
+
+Cities https://data.humdata.org/dataset/settlements-villages-towns-cities
+Health https://data.humdata.org/dataset/iraq-healthsites
+Damage Assessment https://data.humdata.org/dataset/damage-assessment-of-mosul-ninawa-governorate-iraq-2738
+
 **KRG**
 
 KRG maps data (PDF) http://mnr.krg.org/index.php/en/media-center/videos/9-maps-and-data
+
+**ArcGIS.com (multiple sources)**
+
+**MS.gov**
+
+Alternate  KU bounds (3 governorates) https://opendata.gis.ms.gov/items/f9062cae38d148419451318699c8a959?geometry=37.267%2C34.249%2C53.087%2C37.366
+Salahaddin Uni https://opendata.gis.ms.gov/items/c07485932a434a35a64153ce79d5ab2d?geometry=44.012%2C36.14%2C44.043%2C36.146
 
 **Norfolk County**
 
@@ -44,12 +52,6 @@ Neighborhoods = https://services5.arcgis.com/mfAGffSG1CUERVmH/arcgis/rest/servic
 **Harvard CGA**
 
 Erbil 1967 swipe http://harvard-cga.maps.arcgis.com/apps/StorytellingSwipe/index.html?appid=aa7339c0817c49bbac275664a368de99
-
-**HumData**
-
-Cities https://data.humdata.org/dataset/settlements-villages-towns-cities
-Health https://data.humdata.org/dataset/iraq-healthsites
-Damage Assessment https://data.humdata.org/dataset/damage-assessment-of-mosul-ninawa-governorate-iraq-2738
 
 ### Interactive Tutorial
 
@@ -64,10 +66,12 @@ Re-Coded members have found good geodata before.
 
 (TBD: brief intro to OpenStreetMap)
 
-There are tons of community-built data on OpenStreetMap (OSM), including GeoFabrik
-country-level downloads
+There are tons of community-built data on OpenStreetMap (OSM). You can use
+the XML API to get all of the data in a specific area, GeoFabrik for
+country-level downloads, and Overpass to do larger queries.
 
-I used http://overpass-turbo.eu/ to download schools from OpenStreetMap
+I used http://overpass-turbo.eu/ to download schools from OpenStreetMap and
+Export to GeoJSON.
 
 ```
 node
@@ -78,11 +82,12 @@ out;
 
 - Importing Geo CSVs
 
-There's a good example in Step 4 of uploading a CSV which has latitude and longitude.
+There's a good example in Step 4 of uploading a CSV which has latitude and longitude. I put it in the next step, because it involves using csvkit command
+line tools and SQL to change column names / types.
 
 ### Learnings
 
 - Do members of Re-Coded know local sources for geo data?
 - What is OpenStreetMap?
 - How can I get data to make quality websites?
-- Links for installing ogr2ogr on my computer
+- Links for installing ogr2ogr on your computer
