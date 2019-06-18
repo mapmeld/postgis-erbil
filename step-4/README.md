@@ -17,7 +17,7 @@ ogr2ogr -overwrite -f "PostgreSQL" PG:"dbname=jserb" -nln erb-districts district
 Here's how an ESRI Shapefile format can be imported (first extract from any .ZIP / .RAR)
 
 ```bash
-ogr2ogr -overwrite -f "ESRI Shapefile" PG:"dbname=jserb" wards.shp -nln wards
+ogr2ogr -overwrite -f "PostgreSQL" PG:"dbname=jserb" wards.shp -nln wards
 ```
 
 Tips for importing other formats of geodata:

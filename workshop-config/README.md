@@ -36,22 +36,38 @@ REVOKE CREATE ON SCHEMA public FROM js;
 CREATE EXTENSION postgis;
 ```
 
-Import the trains table (TBD: replace with a CSV import)
+Create the planes table
 
 ```sql
-DROP TABLE trains; # overwrite any old trains table
-CREATE TABLE trains (start TEXT, finish TEXT, seats INT, id INT, price FLOAT);
-INSERT INTO trains (start, finish, seats, id, price) VALUES ('Harare', 'Victoria Falls', 100, 1, 100);
-INSERT INTO trains (start, finish, seats, id, price) VALUES ('Harare', 'Bulawayo', 25, 2, 10);
+# overwrite any old planes table
+DROP TABLE IF EXISTS planes;
+CREATE TABLE planes (id INT, start TEXT, finish TEXT, seats INT, price FLOAT);
+INSERT INTO planes (start, finish, seats, id, price) VALUES ('EBL', 'Gaziantep', 100, 1, 100);
+INSERT INTO planes (start, finish, seats, id, price) VALUES ('EBL', 'Dubai', 60, 2, 200);
+INSERT INTO planes (start, finish, seats, id, price) VALUES ('EBL', 'Amman', 25, 3, 150);
+INSERT INTO planes (start, finish, seats, id, price) VALUES ('EBL', 'Istanbul', 44, 4, 250);
+INSERT INTO planes (start, finish, seats, id, price) VALUES ('EBL', 'Dubai', 11, 5, 300);
+INSERT INTO planes (start, finish, seats, id, price) VALUES ('EBL', 'Istanbul', 0, 6, 350);
 
-DROP TABLE train_reviews; # overwrite any old train reviews table
-CREATE TABLE train_reviews (train_id INT, stars INT);
-INSERT INTO train_reviews (train_id, stars) VALUES (1, 1);
-INSERT INTO train_reviews (train_id, stars) VALUES (2, 2);
-INSERT INTO train_reviews (train_id, stars) VALUES (1, 3);
-INSERT INTO train_reviews (train_id, stars) VALUES (2, 4);
-INSERT INTO train_reviews (train_id, stars) VALUES (1, 5);
-INSERT INTO train_reviews (train_id, stars) VALUES (2, 1);
+DROP TABLE IF EXISTS plane_reviews;
+# overwrite any old plane reviews table
+CREATE TABLE plane_reviews (plane_id INT, stars INT);
+INSERT INTO plane_reviews (plane_id, stars) VALUES (1, 1);
+INSERT INTO plane_reviews (plane_id, stars) VALUES (2, 2);
+INSERT INTO plane_reviews (plane_id, stars) VALUES (1, 3);
+INSERT INTO plane_reviews (plane_id, stars) VALUES (2, 4);
+INSERT INTO plane_reviews (plane_id, stars) VALUES (1, 5);
+INSERT INTO plane_reviews (plane_id, stars) VALUES (2, 1);
+INSERT INTO plane_reviews (plane_id, stars) VALUES (3, 1);
+INSERT INTO plane_reviews (plane_id, stars) VALUES (3, 2);
+INSERT INTO plane_reviews (plane_id, stars) VALUES (3, 3);
+INSERT INTO plane_reviews (plane_id, stars) VALUES (3, 4);
+INSERT INTO plane_reviews (plane_id, stars) VALUES (3, 5);
+INSERT INTO plane_reviews (plane_id, stars) VALUES (3, 1);
+INSERT INTO plane_reviews (plane_id, stars) VALUES (4, 4);
+INSERT INTO plane_reviews (plane_id, stars) VALUES (4, 5);
+INSERT INTO plane_reviews (plane_id, stars) VALUES (5, 4);
+INSERT INTO plane_reviews (plane_id, stars) VALUES (5, 5);
 ```
 
 ### Importing the geodata using ogr2ogr (from GDAL)
