@@ -16,7 +16,7 @@ Everything will be explained in the later steps.
 If you are setting up the database from scratch, see workshop-config:
 
 ```
-npm install express compression read-only-pg
+npm install express compression pug read-only-pg
 node serve.js
 ```
 
